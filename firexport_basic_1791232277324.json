@@ -1,217 +1,76 @@
 [
   {
-    "Document ID": "45192",
+    "Document ID": " 53409",
     "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45192-c_1.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1471018992.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45192_1.jpg"
-    ],
-    "nombre": "FRESA 45192 D:3/32\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45192-solid-carbide-cutting-edge-straight-plunge-high-production-3-32-dia-x-1-4-x-1-4-inch-shank.html"
-  },
-  {
-    "id": "45202",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45202_1.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/45200_L.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45202-b_1.jpg"
-    ],
-    "nombre": "FRESA 45202 D:3/16\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45202-solid-carbide-cutting-edge-straight-plunge-high-production-3-16-dia-x-7-16-x-1-4-inch-shank.html"
-  },
-  {
-    "id": "45426",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45426_1.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/45426_L.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45426-b_1.jpg"
-    ],
-    "nombre": "FRESA 45426 D:1/2\" V:1/2\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45426-carbide-tipped-straight-plunge-1-2-dia-x-2-inch-x-1-2-shan.html"
-  },
-  {
-    "id": "45433",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45433_1.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1471019400.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45433-c_1.jpg"
-    ],
-    "nombre": "FRESA 45433 D:5/8\" V:1/2\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45433-carbide-tipped-straight-plunge-5-8-dia-x-2-inch-x-1-2-sha.html"
-  },
-  {
-    "id": "45437",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45437_1.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1471020755.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45437-c_1.jpg"
-    ],
-    "nombre": "FRESA 45437 D:19/32\" V:1/2\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45437-carbide-tipped-undersized-plywood-dado-plunge-19-32-dia-x.html"
-  },
-  {
-    "id": "45455",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45455_2.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1462912058.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45455-c_2.jpg"
-    ],
-    "nombre": "FRESA 45455 D:3/4\" V:3/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45455-cnc-carbide-tipped-straight-plunge-high-production-3-4-dia-x-2-inch-x-3-4-shank-r-h.html"
-  },
-  {
-    "id": "45580",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580_1.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1462983595.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580-c_1.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580-b_1.jpg"
-    ],
-    "nombre": "FRESA 45580 D:1-1/4\" V:1/2\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45580-carbide-tipped-mortising-1-1-4-dia-x-1-2-x-1-2-inch-shank.html"
-  },
-  {
-    "id": "45904",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45904_1.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/5/45904-c_1.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/45904-L.jpg"
-    ],
-    "nombre": "FRESA 45904 R:1/8\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/45904-carbide-tipped-core-box-1-8-radius-x-1-4-dia-x-1-4-x-1-4-i.html"
-  },
-  {
-    "id": "49300",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300_1.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300-c_1.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/49300-L.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300-b_1.jpg"
-    ],
-    "nombre": "FRESA 49300 D:1-1/4\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/49300-rabbeting-3-8-depth-x-1-1-4-dia-x-1-2-x-1-4-inch-shank.html"
-  },
-  {
-    "id": "49302",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302_1.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/49300-L.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302-b_1.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302-c_1.jpg"
-    ],
-    "nombre": "FRESA 49302 D:1-1/4\" V:1/2\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/49302-rabbeting-3-8-depth-x-1-1-4-dia-x-1-2-x-1-2-inch-shank.html"
-  },
-  {
-    "id": "53104",
-    "imagenes": [
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/53104.png?alt=media&token=403a2c46-0fd3-4234-a896-73965d7c6845"
-    ],
-    "nombre": "FRESA 53104 AMANA",
-    "subcategoria": "AMANA"
-  },
-  {
-    "id": "53200",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53200.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1463163883.jpg"
-    ],
-    "nombre": "FRESA 53200 E:1/16\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53200-slotting-cutter-3-wing-x-1-7-8-dia-x-1-16-x-5-16-inner-dia.html"
-  },
-  {
-    "id": "53206",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53206.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/File-1463163883.jpg"
-    ],
-    "nombre": "FRESA 53206 E:1/8\" V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53206-slotting-cutter-3-wing-x-1-7-8-dia-x-1-8-x-5-16-inner-dia.html"
-  },
-  {
-    "id": "53407",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53407-c-assembled.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53409-c-assembled.jpg",
       "https://www.amanatool.com/pub/media/productattachments/53400-L-v2.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53407-assembled.jpg"
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53409-b-assembled.jpg"
     ],
-    "nombre": "FRESA 53407 E:5/32\" AMANA",
+    "nombre": "FRESA 53409 E:7/32\" AMANA",
     "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53407-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-5-32-x-1-4-inch-shank.html"
+    "url_pdf": "https://www.amanatool.com/53409-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-7-32-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
   },
   {
-    "id": "53410",
+    "Document ID": "10181-30",
     "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53410-c-assembled.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/53400-L-v2.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53410-b-assembled.jpg"
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10181-30.jpg"
     ],
-    "nombre": "FRESA 53410 E:1/4\"  V:1/4\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53410-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-1-4-x-1-4-inch-shank.html"
-  },
-  {
-    "id": "56130",
-    "imagenes": [
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/Captura%20de%20pantalla%202026-09-14%20110427.png?alt=media&token=5a6273e3-180a-4910-9711-d6529bd515aa"
-    ],
-    "nombre": "FRESA 56130 AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg"
-  },
-  {
-    "id": "56140",
-    "imagenes": [
-      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/24220/31849/56140_1__09294.1686680956.jpg?c=1",
-      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/24220/31730/56140-b_1__09210.1686680955.jpg?c=1",
-      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/23831/29638/56130-med-newa_1__46383.1686680930.1280.1280.jpg?c=1"
-    ],
-    "nombre": "FRESA 56140 AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://es.global.toolstoday.com/v-5827-56140.html?srsltid=AfmBOoqzJ1mITVMAJnc-RpGQ8OY0vbW1cleQKMbF0F1h2erqNdRtXu9a&glCountry=PE&glCurrency=PEN"
-  },
-  {
-    "id": "56148",
-    "imagenes": [
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/56140.png?alt=media&token=478f4246-b82f-4c1f-b54f-94a0124e91e2"
-    ],
-    "nombre": "FRESA 56148 AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg"
-  },
-  {
-    "id": "56150",
-    "imagenes": [
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/56150.png?alt=media&token=b264197f-d1b5-44e7-a079-a780dc48cb0e"
-    ],
-    "nombre": "FRESA 56150 AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg"
-  },
-  {
-    "id": "82540",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/8/2/82540.jpg",
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/w/o/woodframing-img_31_20.jpg"
-    ],
-    "nombre": "DISCO DE CORTE 8 1/4\" Z40 EJE 5/8\" 82540 TICUT/TIMBERLINE",
+    "nombre": "DISCO DE CORTE 10\" Z80 EJE 30MM 10181-30 TICUT/ TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/82540-ti-cuttrade-general-purpose-finishing-saw-blades.html?fee=13&fep=11403"
+    "url_pdf": "https://www.timberline-amana.com/10181-30-ti-cuttrade-aluminum-non-ferrous-saw-blades.html?fee=13&fep=11424",
+    "url_subcategoria": ""
   },
   {
-    "id": "203261",
+    "Document ID": "110-16",
+    "imagenes": [
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-16.jpg",
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-16-b.jpg",
+      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
+    ],
+    "nombre": "FRESA 110-16 D:7/16\" V:1/2\" TIMBERLINE",
+    "subcategoria": "TIMBERLINE",
+    "url_pdf": "https://www.timberline-amana.com/110-16-straight-plunge-router-bits.html?fee=13&fep=11664",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "110-26",
+    "imagenes": [
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-26.jpg",
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-26-b.jpg",
+      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
+    ],
+    "nombre": "FRESA 110-26 D:1/2\" V:1/2\" TIMBERLINE",
+    "subcategoria": "TIMBERLINE",
+    "url_pdf": "https://www.timberline-amana.com/110-26-straight-plunge-router-bits.html?fee=13&fep=11668",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "110-34",
+    "imagenes": [
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-34.jpg",
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-34-b.jpg",
+      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
+    ],
+    "nombre": "FRESA 110-34 D:3/4\" V:1/2\" TIMBERLINE",
+    "subcategoria": "TIMBERLINE",
+    "url_pdf": "https://www.timberline-amana.com/110-34-straight-plunge-router-bits.html?fee=13&fep=11679",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "160-10",
+    "imagenes": [
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/6/160-10.jpg",
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/6/160-10-b.jpg",
+      "https://www.timberline-amana.com/media/custom/upload/File-1529494361.jpg"
+    ],
+    "nombre": "FRESA \"U\" 160-10 R:1/8\" TIMBERLINE",
+    "subcategoria": "TIMBERLINE",
+    "url_pdf": "https://www.timberline-amana.com/160-10-core-box-router-bits.html?fee=13&fep=11806",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "203261",
     "imagenes": [
       "https://www.amanatool.com/pub/media/catalog/product/2/0/203261-b.jpg",
       "https://www.amanatool.com/pub/media/custom/upload/File-1477680203.jpg",
@@ -223,7 +82,7 @@
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRABbSHEFC0yWdFkhVUwsYuwMDdUpx-8Cp5iuYLyBx1rFsdhBUBnVgcIo0&s=10"
   },
   {
-    "id": "203351",
+    "Document ID": "203351",
     "imagenes": [
       "https://www.amanatool.com/pub/media/catalog/product/2/0/203351-b.jpg",
       "https://www.amanatool.com/pub/media/catalog/product/2/0/203351_1.jpg",
@@ -231,95 +90,34 @@
     ],
     "nombre": "BROCA 203351 D:35MM V:10MM AMANA",
     "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/203351-carbide-tipped-hinge-boring-bit-r-h-35mm-dia-x-57mm-long-x-10mm-shank.html"
+    "url_pdf": "https://www.amanatool.com/203351-carbide-tipped-hinge-boring-bit-r-h-35mm-dia-x-57mm-long-x-10mm-shank.html",
+    "url_subcategoria": ""
   },
   {
-    "id": " 53409",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53409-c-assembled.jpg",
-      "https://www.amanatool.com/pub/media/productattachments/53400-L-v2.jpg",
-      "https://www.amanatool.com/pub/media/catalog/product/5/3/53409-b-assembled.jpg"
-    ],
-    "nombre": "FRESA 53409 E:7/32\" AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53409-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-7-32-x-1-4-inch-shank.html"
-  },
-  {
-    "id": "10181-30",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/0/10181-30.jpg"
-    ],
-    "nombre": "DISCO DE CORTE 10\" Z80 EJE 30MM 10181-30 TICUT/ TIMBERLINE",
-    "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/10181-30-ti-cuttrade-aluminum-non-ferrous-saw-blades.html?fee=13&fep=11424"
-  },
-  {
-    "id": "110-16",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-16.jpg",
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-16-b.jpg",
-      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
-    ],
-    "nombre": "FRESA 110-16 D:7/16\" V:1/2\" TIMBERLINE",
-    "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/110-16-straight-plunge-router-bits.html?fee=13&fep=11664"
-  },
-  {
-    "id": "110-26",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-26.jpg",
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-26-b.jpg",
-      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
-    ],
-    "nombre": "FRESA 110-26 D:1/2\" V:1/2\" TIMBERLINE",
-    "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/110-26-straight-plunge-router-bits.html?fee=13&fep=11668"
-  },
-  {
-    "id": "110-34",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-34.jpg",
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/1/110-34-b.jpg",
-      "https://www.timberline-amana.com/media/custom/upload/File-1529493546.jpg"
-    ],
-    "nombre": "FRESA 110-34 D:3/4\" V:1/2\" TIMBERLINE",
-    "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/110-34-straight-plunge-router-bits.html?fee=13&fep=11679"
-  },
-  {
-    "id": "160-10",
-    "imagenes": [
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/6/160-10.jpg",
-      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/1/6/160-10-b.jpg",
-      "https://www.timberline-amana.com/media/custom/upload/File-1529494361.jpg"
-    ],
-    "nombre": "FRESA \"U\" 160-10  R:1/8\" TIMBERLINE",
-    "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/160-10-core-box-router-bits.html?fee=13&fep=11806"
-  },
-  {
-    "id": "215-240",
+    "Document ID": "215-240",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/2/1/215-240_1.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/w/o/woodframing-img_14_1.jpg"
     ],
     "nombre": "DISCO DE CORTE 8 1/4\" Z24 EJE 5/8\" 215-240 TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/215-240-general-purpose-blades.html?fee=13&fep=11343#prettyPhoto"
+    "url_pdf": "https://www.timberline-amana.com/215-240-general-purpose-blades.html?fee=13&fep=11343#prettyPhoto",
+    "url_subcategoria": ""
   },
   {
-    "id": "240-18",
+    "Document ID": "240-18",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/2/4/240-18.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/2/4/240-18-b.jpg",
       "https://www.timberline-amana.com/media/custom/upload/File-1529569359.jpg"
     ],
-    "nombre": "FRESA 240-18  R:1/4\" V:1/4\" TIMBERLINE",
+    "nombre": "FRESA 240-18 R:1/4\" V:1/4\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/240-18-roman-ogee-router-bits.html?fee=13&fep=11624"
+    "url_pdf": "https://www.timberline-amana.com/240-18-roman-ogee-router-bits.html?fee=13&fep=11624",
+    "url_subcategoria": ""
   },
   {
-    "id": "260-14",
+    "Document ID": "260-14",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/2/6/260-14.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/2/6/260-14-b.jpg",
@@ -327,37 +125,41 @@
     ],
     "nombre": "FRESA 260-14 D:1-1/4\" V:1/2\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/260-14-rabbeting-router-bits.html?fee=13&fep=11729"
+    "url_pdf": "https://www.timberline-amana.com/260-14-rabbeting-router-bits.html?fee=13&fep=11729",
+    "url_subcategoria": ""
   },
   {
-    "id": "270-48",
+    "Document ID": "270-48",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/t/r/trs-310_16.jpg"
     ],
     "nombre": "FRESA 270-48 E:5/32\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/270-48-multi-3-wing-slot-cutter-set.html?fee=13&fep=11758"
+    "url_pdf": "https://www.timberline-amana.com/270-48-multi-3-wing-slot-cutter-set.html?fee=13&fep=11758",
+    "url_subcategoria": ""
   },
   {
-    "id": "270-52",
+    "Document ID": "270-52",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/t/r/trs-310_18.jpg"
     ],
     "nombre": "FRESA 270-52 E:1/4\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/270-52-multi-3-wing-slot-cutter-set.html?fee=13&fep=11760"
+    "url_pdf": "https://www.timberline-amana.com/270-52-multi-3-wing-slot-cutter-set.html?fee=13&fep=11760",
+    "url_subcategoria": ""
   },
   {
-    "id": "320-20",
+    "Document ID": "320-20",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/2/320-46_12.jpg"
     ],
     "nombre": "FRESA 320-20 R:5/16\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/320-20-corner-round-router-bits.html?fee=13&fep=11863"
+    "url_pdf": "https://www.timberline-amana.com/320-20-corner-round-router-bits.html?fee=13&fep=11863",
+    "url_subcategoria": ""
   },
   {
-    "id": "320-26",
+    "Document ID": "320-26",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/2/320-26.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/2/320-26-b.jpg",
@@ -365,10 +167,11 @@
     ],
     "nombre": "FRESA 320-26 R:3/8\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/320-26-corner-round-router-bits.html?fee=13&fep=11864"
+    "url_pdf": "https://www.timberline-amana.com/320-26-corner-round-router-bits.html?fee=13&fep=11864",
+    "url_subcategoria": ""
   },
   {
-    "id": "340-10",
+    "Document ID": "340-10",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/4/340-10_14.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/4/340-10-b.jpg",
@@ -376,10 +179,11 @@
     ],
     "nombre": "FRESA 340-10 R:3/16\" V:1/4\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/340-10-beading-bits.html?fee=13&fep=11823"
+    "url_pdf": "https://www.timberline-amana.com/340-10-beading-bits.html?fee=13&fep=11823",
+    "url_subcategoria": ""
   },
   {
-    "id": "360-10",
+    "Document ID": "360-10",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/6/360-10_4.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/3/6/360-10-b.jpg",
@@ -387,10 +191,11 @@
     ],
     "nombre": "FRESA 360-10 V:1/4\" TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/360-10-classical-beadcove-bits.html?fee=13&fep=11842"
+    "url_pdf": "https://www.timberline-amana.com/360-10-classical-beadcove-bits.html?fee=13&fep=11842",
+    "url_subcategoria": ""
   },
   {
-    "id": "450-08",
+    "Document ID": "450-08",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-08_2.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-08-b.jpg",
@@ -398,10 +203,11 @@
     ],
     "nombre": "FRESA 450-08 TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/450-08-classical-plunge-bits.html?fee=13&fep=11612"
+    "url_pdf": "https://www.timberline-amana.com/450-08-classical-plunge-bits.html?fee=13&fep=11612",
+    "url_subcategoria": ""
   },
   {
-    "id": "450-10",
+    "Document ID": "450-10",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-10_8.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-10-b.jpg",
@@ -409,10 +215,11 @@
     ],
     "nombre": "FRESA 450-10 TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/450-10-5-piece-all-purpose-router-bit-set.html?fee=13&fep=11749"
+    "url_pdf": "https://www.timberline-amana.com/450-10-5-piece-all-purpose-router-bit-set.html?fee=13&fep=11749",
+    "url_subcategoria": ""
   },
   {
-    "id": "450-18",
+    "Document ID": "450-18",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-18_1.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/4/5/450-18-b.jpg",
@@ -420,77 +227,314 @@
     ],
     "nombre": "FRESA 450-18 TIMBERLINE",
     "subcategoria": "TIMBERLINE",
-    "url_pdf": "https://www.timberline-amana.com/450-18-classical-plunge-router-bits.html?fee=13&fep=11851"
+    "url_pdf": "https://www.timberline-amana.com/450-18-classical-plunge-router-bits.html?fee=13&fep=11851",
+    "url_subcategoria": ""
   },
   {
-    "id": "53406-1",
+    "Document ID": "45192",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45192-c_1.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1471018992.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45192_1.jpg"
+    ],
+    "nombre": "FRESA 45192 D:3/32\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45192-solid-carbide-cutting-edge-straight-plunge-high-production-3-32-dia-x-1-4-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45202",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45202_1.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/45200_L.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45202-b_1.jpg"
+    ],
+    "nombre": "FRESA 45202 D:3/16\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45202-solid-carbide-cutting-edge-straight-plunge-high-production-3-16-dia-x-7-16-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45426",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45426_1.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/45426_L.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45426-b_1.jpg"
+    ],
+    "nombre": "FRESA 45426 D:1/2\" V:1/2\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45426-carbide-tipped-straight-plunge-1-2-dia-x-2-inch-x-1-2-shan.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45433",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45433_1.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1471019400.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45433-c_1.jpg"
+    ],
+    "nombre": "FRESA 45433 D:5/8\" V:1/2\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45433-carbide-tipped-straight-plunge-5-8-dia-x-2-inch-x-1-2-sha.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45437",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45437_1.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1471020755.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45437-c_1.jpg"
+    ],
+    "nombre": "FRESA 45437 D:19/32\" V:1/2\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45437-carbide-tipped-undersized-plywood-dado-plunge-19-32-dia-x.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45455",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45455_2.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1462912058.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45455-c_2.jpg"
+    ],
+    "nombre": "FRESA 45455 D:3/4\" V:3/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45455-cnc-carbide-tipped-straight-plunge-high-production-3-4-dia-x-2-inch-x-3-4-shank-r-h.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45580",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580_1.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1462983595.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580-c_1.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45580-b_1.jpg"
+    ],
+    "nombre": "FRESA 45580 D:1-1/4\" V:1/2\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45580-carbide-tipped-mortising-1-1-4-dia-x-1-2-x-1-2-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "45904",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45904_1.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/5/45904-c_1.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/45904-L.jpg"
+    ],
+    "nombre": "FRESA 45904 R:1/8\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/45904-carbide-tipped-core-box-1-8-radius-x-1-4-dia-x-1-4-x-1-4-i.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "49300",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300_1.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300-c_1.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/49300-L.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49300-b_1.jpg"
+    ],
+    "nombre": "FRESA 49300 D:1-1/4\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/49300-rabbeting-3-8-depth-x-1-1-4-dia-x-1-2-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "49302",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302_1.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/49300-L.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302-b_1.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/4/9/49302-c_1.jpg"
+    ],
+    "nombre": "FRESA 49302 D:1-1/4\" V:1/2\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/49302-rabbeting-3-8-depth-x-1-1-4-dia-x-1-2-x-1-2-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "53104",
+    "imagenes": [
+      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/53104.png?alt=media&token=403a2c46-0fd3-4234-a896-73965d7c6845"
+    ],
+    "nombre": "FRESA 53104 AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "53200",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53200.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1463163883.jpg"
+    ],
+    "nombre": "FRESA 53200 E:1/16\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/53200-slotting-cutter-3-wing-x-1-7-8-dia-x-1-16-x-5-16-inner-dia.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "53206",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53206.jpg",
+      "https://www.amanatool.com/pub/media/custom/upload/File-1463163883.jpg"
+    ],
+    "nombre": "FRESA 53206 E:1/8\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/53206-slotting-cutter-3-wing-x-1-7-8-dia-x-1-8-x-5-16-inner-dia.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "53406-1",
     "imagenes": [
       "https://www.amanatool.com/pub/media/catalog/product/5/3/53406-1_2.jpg",
       "https://www.amanatool.com/pub/media/productattachments/53400-1-L.jpg"
     ],
     "nombre": "FRESA 53406-1 E:1/8\" AMANA",
     "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/53406-1-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-1-8-x-1-2-inch-shank.html"
+    "url_pdf": "https://www.amanatool.com/53406-1-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-1-8-x-1-2-inch-shank.html",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-150",
+    "Document ID": "53407",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53407-c-assembled.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/53400-L-v2.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53407-assembled.jpg"
+    ],
+    "nombre": "FRESA 53407 E:5/32\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/53407-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-5-32-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "53410",
+    "imagenes": [
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53410-c-assembled.jpg",
+      "https://www.amanatool.com/pub/media/productattachments/53400-L-v2.jpg",
+      "https://www.amanatool.com/pub/media/catalog/product/5/3/53410-b-assembled.jpg"
+    ],
+    "nombre": "FRESA 53410 E:1/4\" V:1/4\" AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://www.amanatool.com/53410-slotting-cutter-assembly-3-wing-x-1-7-8-dia-x-1-4-x-1-4-inch-shank.html",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "56130",
+    "imagenes": [
+      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/Captura%20de%20pantalla%202026-09-14%20110427.png?alt=media&token=5a6273e3-180a-4910-9711-d6529bd515aa"
+    ],
+    "nombre": "FRESA 56130 AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "56140",
+    "imagenes": [
+      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/24220/31849/56140_1__09294.1686680956.jpg?c=1",
+      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/24220/31730/56140-b_1__09210.1686680955.jpg?c=1",
+      "https://cdn11.bigcommerce.com/s-byznwdb8us/images/stencil/1280x1280/products/23831/29638/56130-med-newa_1__46383.1686680930.1280.1280.jpg?c=1"
+    ],
+    "nombre": "FRESA 56140 AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://es.global.toolstoday.com/v-5827-56140.html?srsltid=AfmBOoqzJ1mITVMAJnc-RpGQ8OY0vbW1cleQKMbF0F1h2erqNdRtXu9a&glCountry=PE&glCurrency=PEN",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "56148",
+    "imagenes": [
+      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/56140.png?alt=media&token=478f4246-b82f-4c1f-b54f-94a0124e91e2"
+    ],
+    "nombre": "FRESA 56148 AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "56150",
+    "imagenes": [
+      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/56150.png?alt=media&token=b264197f-d1b5-44e7-a079-a780dc48cb0e"
+    ],
+    "nombre": "FRESA 56150 AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page44.jpg",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "604-150",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxe_mI0rhRrw6lkS9UepZyfaCUF29jGJN8JooU7dCdA&s=10"
     ],
     "nombre": "BROCA PLANA 604-150 D:5/16\" TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-200",
+    "Document ID": "604-200",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0LBBEvul5npI4K8KmYzoJwOzngxpv7SzDKd4LN9V21Q&s=10"
     ],
-    "nombre": "BROCA PLANA 3/8\" 604-200  TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "nombre": "BROCA PLANA 3/8\" 604-200 TIMBERLINE",
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-270",
+    "Document ID": "604-270",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwZMkR-Ew11c0XlCz77h51bOYCxH_ZKDTuIqTsP4STPQ&s=10"
     ],
-    "nombre": "BROCA PLANA 5/8\" 604-270  TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "nombre": "BROCA PLANA 5/8\" 604-270 TIMBERLINE",
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-450",
+    "Document ID": "604-450",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PUkiXvLM5H0N2SN89ChR0ArUgZL3hjN7Kx5VyeeJeazHFPItaajvBNA&s=10"
     ],
-    "nombre": "BROCA PLANA 13/16\"  604-450  TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "nombre": "BROCA PLANA 13/16\" 604-450 TIMBERLINE",
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-550",
+    "Document ID": "604-550",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnikRosrD3iOZ4XZthANGi8V7dADF-PNhWabAwZ9VEpA&s"
     ],
-    "nombre": "BROCA PLANA 15/16\"  604-550  TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "nombre": "BROCA PLANA 15/16\" 604-550 TIMBERLINE",
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-600",
+    "Document ID": "604-600",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYorVTTlu8w4OxSRhTuMHkc_oialqgcH0l5aY29_9AQ&s=10"
     ],
-    "nombre": "BROCA PLANA 1\" 604-600  TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "nombre": "BROCA PLANA 1\" 604-600 TIMBERLINE",
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "604-800",
+    "Document ID": "604-800",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/604-800-spadebits.jpg",
       "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/description/604-800-package.jpg"
     ],
     "nombre": "BROCA PLANA 604-800 SET 6 PZAS TIMBERLINE",
-    "subcategoria": "TIMBERLINE BROCAS"
+    "subcategoria": "TIMBERLINE BROCAS",
+    "url_pdf": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "606-117",
+    "Document ID": "606-117",
     "imagenes": [
       "https://www.timberline-amana.com/media/wysiwyg/606-100-package-1.jpg",
       "https://www.timberline-amana.com/media/wysiwyg/606-100-spec.jpg"
@@ -501,57 +545,82 @@
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh2DFHSwqFCgbpwi0Lf6WlN9qwMRlvYjlYmyBV-isFXg&s=10"
   },
   {
-    "id": "606-123",
+    "Document ID": "606-123",
     "imagenes": [
       "https://www.timberline-amana.com/media/wysiwyg/606-100-package-1.jpg",
       "https://www.timberline-amana.com/media/wysiwyg/606-100-spec.jpg"
     ],
     "nombre": "BROCA 606-123 D:6MM TIMBERLINE",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/timberline-606-123-brad-point-drill-bit-6mm-d-x-6mm-shk.html?fee=13&fep=15751"
+    "url_pdf": "https://www.timberline-amana.com/timberline-606-123-brad-point-drill-bit-6mm-d-x-6mm-shk.html?fee=13&fep=15751",
+    "url_subcategoria": ""
   },
   {
-    "id": "606-133",
+    "Document ID": "606-133",
     "imagenes": [
       "https://www.timberline-amana.com/media/wysiwyg/606-100-package-1.jpg",
       "https://www.timberline-amana.com/media/wysiwyg/606-100-spec.jpg"
     ],
     "nombre": "BROCA 606-133 D:8MM TIMBERLINE",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/timberline-606-133-brad-point-drill-bit-8mm-d-x-8mm-shk.html?fee=13&fep=15746"
+    "url_pdf": "https://www.timberline-amana.com/timberline-606-133-brad-point-drill-bit-8mm-d-x-8mm-shk.html?fee=13&fep=15746",
+    "url_subcategoria": ""
   },
   {
-    "id": "606-160",
+    "Document ID": "606-160",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/wysiwyg/606-100-package-1.jpg",
       "https://www.timberline-amana.com/media/wysiwyg/606-100-spec.jpg"
     ],
     "nombre": "BROCA 606-160 D:3/4\" TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/timberline-606-160-brad-point-drill-bit-3-4-d-x-1-2-inch-shk.html?fee=13&fep=15737"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/timberline-606-160-brad-point-drill-bit-3-4-d-x-1-2-inch-shk.html?fee=13&fep=15737",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "606-164",
+    "Document ID": "606-164",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/wysiwyg/606-100-package-1.jpg",
       "https://www.timberline-amana.com/media/wysiwyg/606-100-spec.jpg"
     ],
     "nombre": "BROCA 606-164 D:1\" V:1/2\" TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/timberline-606-164-brad-point-drill-bit-1-inch-d-x-1-2-shk.html?fee=13&fep=15735"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/timberline-606-164-brad-point-drill-bit-1-inch-d-x-1-2-shk.html?fee=13&fep=15735",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "606-200",
+    "Document ID": "606-200",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/606-200-a.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/606-200-c.jpg"
     ],
     "nombre": "BROCA 606-200 SET X 7 PZ. TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/timberline-606-200-7-piece-brad-point-drill-bit-set.html?fee=13&fep=15734"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/timberline-606-200-7-piece-brad-point-drill-bit-set.html?fee=13&fep=15734",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "608-290",
+    "Document ID": "608-290",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-290-b.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-290_8.jpg",
@@ -559,22 +628,36 @@
       "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/description/608-290-pro.jpg"
     ],
     "nombre": "BROCA VIDRIO 608-290 D:1/8\" TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/608-290-carbidetipped-glasstile.html?fee=13&fep=12173#prettyPhoto"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/608-290-carbidetipped-glasstile.html?fee=13&fep=12173#prettyPhoto",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "608-292",
+    "Document ID": "608-292",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-292-b.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-292.jpg",
       "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/description/608-290-pro.jpg"
     ],
     "nombre": "BROCA VIDRIO 608-292 D:5/32\" TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/608-292-carbide-tipped-glass-tile-drills.html?fee=13&fep=12174"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/608-292-carbide-tipped-glass-tile-drills.html?fee=13&fep=12174",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "608-294",
+    "Document ID": "608-294",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-294-c.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/0/608-294-b.jpg",
@@ -582,128 +665,215 @@
       "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/description/608-290-pro.jpg"
     ],
     "nombre": "BROCA VIDRIO 608-294 D:3/16\" TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE BROCAS",
-    "url_pdf": "https://www.timberline-amana.com/608-294-carbide-tipped-glass-tile-drills.html?fee=13&fep=12175"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/608-294-carbide-tipped-glass-tile-drills.html?fee=13&fep=12175",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "620-260",
+    "Document ID": "620-260",
+    "categoria": "",
+    "complementos": "",
     "imagenes": [
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/2/620-260-b.jpg",
       "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/6/2/620-260.jpg",
       "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/description/608-170-pro.jpg"
     ],
     "nombre": "BROCA 620-260 D:26MM V:10MM TIMBERLINE",
+    "otras_medidas": "",
     "subcategoria": "TIMBERLINE",
+    "url_imagen": "",
+    "url_manual": "",
     "url_pdf": "https://www.timberline-amana.com/620-260-hinge-boring-european.html?fee=13&fep=12408#prettyPhoto",
+    "url_reel": "",
     "url_subcategoria": "https://www.timberline-amana.com/skin/frontend/amana/timberline/images/timberline_logo.png"
   },
   {
-    "id": "AARENA",
+    "Document ID": "82540",
+    "categoria": "",
+    "complementos": "",
+    "imagenes": [
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/8/2/82540.jpg",
+      "https://www.timberline-amana.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/w/o/woodframing-img_31_20.jpg"
+    ],
+    "nombre": "DISCO DE CORTE 8 1/4\" Z40 EJE 5/8\" 82540 TICUT/TIMBERLINE",
+    "otras_medidas": "",
+    "subcategoria": "TIMBERLINE",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "https://www.timberline-amana.com/82540-ti-cuttrade-general-purpose-finishing-saw-blades.html?fee=13&fep=11403",
+    "url_reel": "",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "AARENA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0000_ARENA-AMAZONICA.jpg"
     ],
     "nombre": "AMAZONIK ARENA 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
     "url_reel": "https://www.tiktok.com/@deco_veth/video/7583109234305420552?q=melamina%20arena&t=1788982723446",
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH5hPQ-YL3Djskh98aqk-eM8RgrdtTnpFiF5zwK3sz6Q&s=10"
   },
   {
-    "id": "AAZUL",
+    "Document ID": "AAZUL",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0005_AZUL.jpg"
     ],
     "nombre": "AMAZONIK AZUL SOFT 18X2100X2440MM",
-    "subcategoria": "AMAZONIK"
+    "otras_medidas": "",
+    "subcategoria": "AMAZONIK",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "ACARAL",
+    "Document ID": "ACARAL",
     "categoria": "melamina",
+    "complementos": "",
+    "imagenes": "",
     "nombre": "AMAZONIK CARAL 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
     "url_imagen": "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0022_CARAL.jpg",
-    "url_reel": "https://www.tiktok.com/@mobiliarios.arquicarp/video/7440613332110921015?q=melamina%20caral&t=1788982485460"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@mobiliarios.arquicarp/video/7440613332110921015?q=melamina%20caral&t=1788982485460",
+    "url_subcategoria": ""
   },
   {
-    "id": "ACEDRO",
+    "Document ID": "ACEDRO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0018_CEDRO-430x430.jpg"
     ],
     "nombre": "AMAZONIK CEDRO 18X2100X2440MM",
-    "subcategoria": "AMAZONIK"
+    "otras_medidas": "",
+    "subcategoria": "AMAZONIK",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "ADAMASKO",
+    "Document ID": "ADAMASKO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0033_DAMASKO-AMAZONICO.jpg"
     ],
     "nombre": "AMAZONIK DAMASKO SOFT 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@lya_carpinteria_diseno/video/7579854429340323079?q=melamina%20damasko&t=1788982198491"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@lya_carpinteria_diseno/video/7579854429340323079?q=melamina%20damasko&t=1788982198491",
+    "url_subcategoria": ""
   },
   {
-    "id": "AENTABLADO",
+    "Document ID": "AENTABLADO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0009_ENTABLADO-430x430.jpg"
     ],
     "nombre": "AMAZONIK ENTABLADO 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@muebleriavipal/video/7574564672981044536?q=melamina%20entablado&t=1788899785644"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@muebleriavipal/video/7574564672981044536?q=melamina%20entablado&t=1788899785644",
+    "url_subcategoria": ""
   },
   {
-    "id": "AFLORESTA",
+    "Document ID": "AFLORESTA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0001_FLORESTA-430x430.jpg"
     ],
     "nombre": "AMAZONIK FLORESTA 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@spazi.nova/video/7675051499986095380?q=melamina%20floresta&t=1788899756676"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@spazi.nova/video/7675051499986095380?q=melamina%20floresta&t=1788899756676",
+    "url_subcategoria": ""
   },
   {
-    "id": "AGTACEROGRAFITO",
+    "Document ID": "AGTACEROGRAFITO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://res.cloudinary.com/hdi/images/w_2560,h_1843,c_scale/f_webp,q_auto:best/v1719973896/Suppliers/AGT/Images/Vignettes/AGT_HG_Picasso_Inox_394_Kitchen_01/AGT_HG_Picasso_Inox_394_Kitchen_01.jpg?_i=AA",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXe-wacKITF5sskhbFIXwXLx9kpMKI0T9w6mDCK5eUYsVGERDHsapqU3O&s=10",
       "https://lapp-fa.hu/images/products/kulcs_928_1102_0x0.fill.jpg"
     ],
     "nombre": "AGT ALTO BRILLO ACERO 18X1220X2800MM",
+    "otras_medidas": "",
     "subcategoria": "MEL ALTO BRILLO",
     "url_imagen": "https://lapp-fa.hu/images/products/kulcs_928_1102_0x0.fill.jpg",
-    "url_reel": "https://www.facebook.com/disho.ro/videos/mdf-agt-kashmir-picasso-inox/338742538314126/"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.facebook.com/disho.ro/videos/mdf-agt-kashmir-picasso-inox/338742538314126/",
+    "url_subcategoria": ""
   },
   {
-    "id": "AGTPLATA",
+    "Document ID": "AGTPLATA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://static.richelieu.com/documents/docsGr/123/231/0/1232310/1585809_700.jpg",
       "https://img5.su-cdn.com/mall/file/2022/01/18/a4b2d121880c4c9f9caee33eacea622e.jpg",
       "https://images.deal.by/228877205_w640_h640_228877205.jpg"
     ],
     "nombre": "AGT ALTO BRILLO PLATA 18X1220X2800",
+    "otras_medidas": "",
     "subcategoria": "MEL ALTO BRILLO",
-    "url_imagen": "https://images.deal.by/228877205_w640_h640_228877205.jpg"
+    "url_imagen": "https://images.deal.by/228877205_w640_h640_228877205.jpg",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "AGTROJO",
+    "Document ID": "AGTROJO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbAr8qeCkvHp9I4LZMpHj80iAEDRtZTSxOmY8W0yzAwtei5xKy2-XFTY&s=10",
       "https://cdnx.jumpseller.com/lara-hermanos-spa/image/39589001/resize/1200/1200?1694450775",
       "https://image.made-in-china.com/202f0j00WUnqgzcRgNri/3mm-6mm-18mm-MDF-High-Glossy-Red-Color-Melamine-MDF-Board.webp"
     ],
     "nombre": "AGT ALTO BRILLO ROJO 18X1220X2800",
+    "otras_medidas": "",
     "subcategoria": "MEL ALTO BRILLO",
     "url_imagen": "https://arcosac.com/wp-content/uploads/2022/12/MELPRP001002-MDF-ALTO-BRILLO-ROJO-18MM-1.22X2.80-6030-2.png",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYDOOZbspgrorN2DYDUZB9mPg7dEf9IbV9KLsG29dXUYJOvZxc0Ca-GOr&s=10"
   },
   {
-    "id": "AL1535",
+    "Document ID": "AL1535",
     "categoria": "ferreteria",
     "complementos": [
       "AL1535RIEL"
@@ -713,70 +883,110 @@
       "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100800100_IMG_PROD1_BL.jpg"
     ],
     "nombre": "SISTEMA AL-1535",
+    "otras_medidas": "",
     "subcategoria": "SISTEMA CORREDIZO",
     "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100800100_IMG_PROD1_BL.jpg",
     "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100800100_INSTRUCTIVO.pdf",
     "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100800100_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@danilo.distribuidora.ok/video/7595951726285442360"
+    "url_reel": "https://www.tiktok.com/@danilo.distribuidora.ok/video/7595951726285442360",
+    "url_subcategoria": ""
   },
   {
-    "id": "AL1535RIEL",
+    "Document ID": "AL1535RIEL",
     "categoria": "ferreteria",
     "complementos": [
       "AL1535"
     ],
+    "imagenes": "",
     "nombre": "RIEL AL-1535 X 2 Y 3MT",
+    "otras_medidas": "",
     "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100604620_IMG_PROD1.jpg"
+    "url_imagen": "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100604620_IMG_PROD1.jpg",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "AMACCHIATO",
+    "Document ID": "AMACCHIATO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0008_MACCHIATO.jpg"
     ],
     "nombre": "AMAZONIK MACCHIATO SOFT 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@felixsuarez_18/video/6978937296317943046?q=melamina%20macchiato&t=1788899306819"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@felixsuarez_18/video/6978937296317943046?q=melamina%20macchiato&t=1788899306819",
+    "url_subcategoria": ""
   },
   {
-    "id": "ANEBLINA",
+    "Document ID": "ANEBLINA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/09/COLORES-AMAZONIK-WEB_0024_NIEBLA-430x430.jpg"
     ],
     "nombre": "AMAZONIK NEBLINA AMAZONICA 18X2100X2440",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@insgaqal.muebles/video/7424683828712590598?q=melamina%20neblina&t=1788900234219"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@insgaqal.muebles/video/7424683828712590598?q=melamina%20neblina&t=1788900234219",
+    "url_subcategoria": ""
   },
   {
-    "id": "ANUEZ",
+    "Document ID": "ANUEZ",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0015_NUEZ-430x430.jpg"
     ],
     "nombre": "AMAZONIK NUEZ 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@baraquelmuebles/video/7616782566879726868?q=melamina%20nuez&t=1788900421771"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@baraquelmuebles/video/7616782566879726868?q=melamina%20nuez&t=1788900421771",
+    "url_subcategoria": ""
   },
   {
-    "id": "AONIX",
+    "Document ID": "AONIX",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0030_ONIX-AMAZONICO.jpg"
     ],
     "nombre": "AMAZONIK ONIX SOFT 18X2100X2440MM",
-    "subcategoria": "AMAZONIK"
-  },
-  {
-    "id": "APERLA",
-    "categoria": "melamina",
-    "nombre": "AMAZONIK PERLA 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_imagen": "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0017_PERLA-430x430.jpg"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "APLICADORSIKA",
+    "Document ID": "APERLA",
+    "categoria": "melamina",
+    "complementos": "",
+    "imagenes": "",
+    "nombre": "AMAZONIK PERLA 18X2100X2440MM",
+    "otras_medidas": "",
+    "subcategoria": "AMAZONIK",
+    "url_imagen": "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0017_PERLA-430x430.jpg",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
+  },
+  {
+    "Document ID": "APLICADORSIKA",
     "categoria": "ferreteria",
     "complementos": [
       "SIKASILIA",
@@ -789,13 +999,16 @@
       "https://sikacenter.com.pe/wp-content/uploads/2025/07/130313-01.jpg"
     ],
     "nombre": "APLICADOR DE SILICONA SIKA AMARILLO/NEGRO",
+    "otras_medidas": "",
     "subcategoria": "PEGAMENTOS Y ADHESIVOS",
     "url_imagen": "https://sikacenter.com.pe/wp-content/uploads/2025/07/130313-01.jpg",
+    "url_manual": "",
+    "url_pdf": "",
     "url_reel": "https://www.tiktok.com/@ferremaxoficialpcl/video/7625787488879054101?q=aplicador%20de%20silicona%20sika&t=1788033757375",
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhSp0ed8C9VysDqd_NvAqEy79j1u_4qJgsOZnE93wqg&s=10"
   },
   {
-    "id": "APLICADORTRUPER",
+    "Document ID": "APLICADORTRUPER",
     "categoria": "ferreteria",
     "complementos": [
       "SIKASILIA",
@@ -806,47 +1019,68 @@
       "https://www.truper.com/media/import/imagenes/PICA-E+D1.jpg"
     ],
     "nombre": "APLICADOR DE SILICONA ESQUELETO TRUPER",
+    "otras_medidas": "",
     "subcategoria": "PEGAMENTOS Y ADHESIVOS",
     "url_imagen": "https://www.truper.com/media/import/imagenes/PICA-E.jpg",
+    "url_manual": "",
     "url_pdf": "https://www.truper.com/ficha_tecnica_pdf/views/ficha-print.php?id=4251",
-    "url_reel": "https://www.tiktok.com/@dajeos_corp/video/7547750293908262200?q=aplicador%20de%20silicona%20truper&t=1787004789934"
+    "url_reel": "https://www.tiktok.com/@dajeos_corp/video/7547750293908262200?q=aplicador%20de%20silicona%20truper&t=1787004789934",
+    "url_subcategoria": ""
   },
   {
-    "id": "ARANURADOBLANCO",
+    "Document ID": "ARANURADOBLANCO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/TRUPAN-RANURADO-Blanco-1024x827.jpg",
       "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/TRUPAN-Ranurado-HUINCHA-BLANCO-2-1024x214.jpg",
       "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Trupan-Ranurado-ambiente-1.jpg"
     ],
     "nombre": "RANURADO MDF BLANCO 18X1520X2440MM ARAUCO",
+    "otras_medidas": "",
     "subcategoria": "MDF TRIPLAY OSB",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
     "url_reel": "https://www.tiktok.com/@insgaqal.muebles/video/7470334322982096133?q=ranurado%20mdf&t=1789081375807",
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNMTrAfMREFU_dgRWv2fQ3G4pKSqi00zPZM23ayPO4Q&s=10"
   },
   {
-    "id": "AROBLEAMAZONICO",
+    "Document ID": "AROBLEAMAZONICO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0016_ROBLE-AMAZONICO-430x430.jpg"
     ],
     "nombre": "AMAZONIK ROBLE AMAZONICO 18X21400X2440",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@ca.amoblamientos/video/7624173169720675591?q=melamina%20roble%20amazonico&t=1788981624211"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@ca.amoblamientos/video/7624173169720675591?q=melamina%20roble%20amazonico&t=1788981624211",
+    "url_subcategoria": ""
   },
   {
-    "id": "AROSADO",
+    "Document ID": "AROSADO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0002_ROSADO-BEBE-430x430.jpg"
     ],
     "nombre": "AMAZONIK ROSADO BEBE 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@melaminas.milan.y/video/7649845858258668808?q=melamina%20rosado%20bebe&t=1788902954380"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@melaminas.milan.y/video/7649845858258668808?q=melamina%20rosado%20bebe&t=1788902954380",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASBLANCO",
+    "Document ID": "ASBLANCO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/09/COLORES-AMAZONIK-WEB_0026_BLANCO-430x430.jpg"
     ],
@@ -855,22 +1089,32 @@
       "SELVA AMAZONIK BLANCO 15X2140X2440"
     ],
     "subcategoria": "SELVA",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
     "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVYGV-cGsNkkXvOOKCy3vMX2T9E6hTu3HJmyDcyb28w&s=10"
   },
   {
-    "id": "ASCARAMELO",
+    "Document ID": "ASCARAMELO",
     "categoria": "melamina",
+    "complementos": "",
+    "imagenes": "",
     "nombre": "SELVA AMAZONIK CARAMELO 18X2140X2440MM",
     "otras_medidas": [
       "SELVA AMAZONIK CARAMELO 15X2140X2440MM"
     ],
     "subcategoria": "SELVA",
     "url_imagen": "https://amazonik.com.pe/wp-content/uploads/2024/09/COLORES-AMAZONIK-WEB_0023_CARAMELO-430x430.jpg",
-    "url_reel": "https://www.tiktok.com/@muebleria_majestic_home/video/7677073791406689556?q=melamina%20caramelo&t=1788907816717"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@muebleria_majestic_home/video/7677073791406689556?q=melamina%20caramelo&t=1788907816717",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASCHANTILLI",
+    "Document ID": "ASCHANTILLI",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0012_CHANTILLY-430x430.jpg"
     ],
@@ -879,11 +1123,16 @@
       "SELVA AMAZONIK CHANTILLI 15X2140X2440MM"
     ],
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@cjaponte/video/7136273391551515910?q=melamina%20chantilly&t=1788908013525"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@cjaponte/video/7136273391551515910?q=melamina%20chantilly&t=1788908013525",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASCUBOS",
+    "Document ID": "ASCUBOS",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0011_CUBOS-1-430x430.jpg"
     ],
@@ -891,22 +1140,33 @@
     "otras_medidas": [
       "SELVA AMAZONIK CUBOS 15X2140X2440MM"
     ],
-    "subcategoria": "SELVA"
+    "subcategoria": "SELVA",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASENTABLADO",
+    "Document ID": "ASENTABLADO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0009_ENTABLADO-430x430.jpg"
     ],
     "nombre": "SELVA AMAZONIK ENTABLADO 18X2140X2440",
     "otras_medidas": "SELVA AMAZONIK ENTABLADO 15X2140X2440",
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@muebleriavipal/video/7574564672981044536?q=melamina%20entablado&t=1788899785644"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@muebleriavipal/video/7574564672981044536?q=melamina%20entablado&t=1788899785644",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASHUMO",
+    "Document ID": "ASHUMO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0010_HUMO-AMAZONICO-1.jpg"
     ],
@@ -915,21 +1175,32 @@
       "SELVA AMAZONIK HUMO 15X2140X2440MM"
     ],
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@javycolmenares/video/7460595884405820677?q=melamina%20humo&t=1788975258753"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@javycolmenares/video/7460595884405820677?q=melamina%20humo&t=1788975258753",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASIBERIA",
+    "Document ID": "ASIBERIA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0029_SIBERIA-430x430.jpg"
     ],
     "nombre": "AMAZONIK SIBERIA 18X2100X2440MM",
+    "otras_medidas": "",
     "subcategoria": "AMAZONIK",
-    "url_reel": "https://www.tiktok.com/@muebleria.lpyp/video/7349354438274043141?q=melamina%20siberia&t=1788903443757"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@muebleria.lpyp/video/7349354438274043141?q=melamina%20siberia&t=1788903443757",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASIBIZA",
+    "Document ID": "ASIBIZA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0027_IBIZA.jpg"
     ],
@@ -938,74 +1209,122 @@
       "SELVA AMAZONIK IBIZA 15X2140X2440MM"
     ],
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@todomueblescloset/video/7596754363423477013?q=melamina%20ibiza&t=1788975796431"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@todomueblescloset/video/7596754363423477013?q=melamina%20ibiza&t=1788975796431",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASLILA",
+    "Document ID": "ASLILA",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0032_LILA-FLORAL-430x430.jpg"
     ],
     "nombre": "SELVA AMAZONIK LILA 18X2140X2440MM",
+    "otras_medidas": "",
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@jbcarquitectura2022/video/7196093746386111750?q=melamina%20lila%20amazonik&t=1788976192271"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@jbcarquitectura2022/video/7196093746386111750?q=melamina%20lila%20amazonik&t=1788976192271",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASMANZANAL",
+    "Document ID": "ASMANZANAL",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0031_MANZANAL.jpg"
     ],
     "nombre": "SELVA AMAZONIK MANZANAL 18X2140X2440MM",
-    "subcategoria": "SELVA"
+    "otras_medidas": "",
+    "subcategoria": "SELVA",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASNEGRO",
+    "Document ID": "ASNEGRO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0007_NEGRO-430x430.jpg"
     ],
     "nombre": "SELVA AMAZONIK NEGRO 18X2140X2440MM",
-    "subcategoria": "SELVA"
+    "otras_medidas": "",
+    "subcategoria": "SELVA",
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASROJO",
+    "Document ID": "ASROJO",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/10/COLORES-AMAZONIK-WEB_0004_ROJO-430x430.jpg"
     ],
     "nombre": "SELVA AMAZONIK ROJO 18X2140X2440MM",
+    "otras_medidas": "",
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@modulismointerior/video/7299135370006891782?q=melamina%20ROJO%20AMAZONIK&t=1788981248875"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@modulismointerior/video/7299135370006891782?q=melamina%20ROJO%20AMAZONIK&t=1788981248875",
+    "url_subcategoria": ""
   },
   {
-    "id": "ASWENGUE",
+    "Document ID": "ASWENGUE",
     "categoria": "melamina",
+    "complementos": "",
     "imagenes": [
       "https://amazonik.com.pe/wp-content/uploads/2024/09/COLORES-AMAZONIK-WEB_0025_WENGUE-430x430.jpg"
     ],
     "nombre": "SELVA AMAZONIK WENGUE 18X2140X2440MM",
+    "otras_medidas": "",
     "subcategoria": "SELVA",
-    "url_reel": "https://www.tiktok.com/@neudyscastillo2/video/7452088071815810309?q=melamina%20wengue&t=1788981407042"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@neudyscastillo2/video/7452088071815810309?q=melamina%20wengue&t=1788981407042",
+    "url_subcategoria": ""
   },
   {
-    "id": "BA165LATERAL",
+    "Document ID": "BA165LATERAL",
     "categoria": "ferreteria",
+    "complementos": "",
+    "imagenes": "",
     "nombre": "BISAGRA 165° LATERAL ASTER",
+    "otras_medidas": "",
     "subcategoria": "BISAGRAS",
     "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4yM16ODSGAFFrf5g9HUb1TsQwbxm8Hwbge3NcBLoW_A&s=10",
-    "url_reel": "https://www.facebook.com/reel/898640114480992?locale=es_LA"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.facebook.com/reel/898640114480992?locale=es_LA",
+    "url_subcategoria": ""
   },
   {
-    "id": "BACSALATERAL",
+    "Document ID": "BACSALATERAL",
     "categoria": "ferreteria",
+    "complementos": "",
+    "imagenes": "",
     "nombre": "BISAGRA P/ALUMINIO LATERAL CIERRE SUAVE",
+    "otras_medidas": "",
     "subcategoria": "BISAGRAS",
     "url_imagen": "https://http2.mlstatic.com/D_NQ_NP_817585-MLA80536649132_112024-O.webp",
-    "url_reel": "https://www.tiktok.com/@aguilarferre.1/video/7543001955967290632?q=bisagra%20perfil%20aluminio%20lateral&t=1788466204879"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@aguilarferre.1/video/7543001955967290632?q=bisagra%20perfil%20aluminio%20lateral&t=1788466204879",
+    "url_subcategoria": ""
   },
   {
-    "id": "BACSCENTRAL",
+    "Document ID": "BACSCENTRAL",
     "categoria": "ferreteria",
     "complementos": [
       "BFORSTNERH",
@@ -1017,11 +1336,16 @@
       "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BACSCENTRAL1.png?raw=true"
     ],
     "nombre": "BISAGRA CIERRE SUAVE CENTRAL ASTER",
+    "otras_medidas": "",
     "subcategoria": "BISAGRAS",
-    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID",
+    "url_subcategoria": ""
   },
   {
-    "id": "BACSINTERIOR",
+    "Document ID": "BACSINTERIOR",
     "categoria": "ferreteria",
     "complementos": [
       "BFORSTNERH",
@@ -1033,11 +1357,16 @@
       "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BACSINTERIOR1.png?raw=true"
     ],
     "nombre": "BISAGRA CIERRE SUAVE INTERIOR ASTER",
+    "otras_medidas": "",
     "subcategoria": "BISAGRAS",
-    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID",
+    "url_subcategoria": ""
   },
   {
-    "id": "BASCLATERAL",
+    "Document ID": "BASCLATERAL",
     "categoria": "ferreteria",
     "complementos": [
       "BFORSTNERH",
@@ -1049,11 +1378,16 @@
       "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BACSLATERAL1.png?raw=true"
     ],
     "nombre": "BISAGRA CIERRE SUAVE LATERAL ASTER",
+    "otras_medidas": "",
     "subcategoria": "BISAGRAS",
-    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID"
+    "url_imagen": "",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.facebook.com/asterproducts/videos/bisagra-especial-e300-105-inseparable-cierre-suave-calidad-y-precisi%C3%B3n-en-%C3%A1ngulo/756394672574751/?locale=id_ID",
+    "url_subcategoria": ""
   },
   {
-    "id": "BAVELLANADORA",
+    "Document ID": "BAVELLANADORA",
     "categoria": "ferreteria",
     "complementos": [
       "PERFORDORCANTO"
@@ -1064,1919 +1398,26 @@
       "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/avellanadora.png?alt=media&token=8e604adf-3c91-4cea-8996-d090de888fa5"
     ],
     "nombre": "BROCA AVELLANADORA 8MM",
+    "otras_medidas": "",
     "subcategoria": "BROCAS Y TARUGOS",
     "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/avellanadora.png?alt=media&token=8e604adf-3c91-4cea-8996-d090de888fa5",
-    "url_reel": "https://www.tiktok.com/@mobitec1/video/7159690889021951237?q=broca%20avellanadora%20melamina&t=1788034347534"
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "https://www.tiktok.com/@mobitec1/video/7159690889021951237?q=broca%20avellanadora%20melamina&t=1788034347534",
+    "url_subcategoria": ""
   },
   {
-    "id": "BCONCRETO12",
+    "Document ID": "BCONCRETO12",
     "categoria": "ferreteria",
+    "complementos": "",
+    "imagenes": "",
     "nombre": "BROCA CONCRETO 1/2\"",
+    "otras_medidas": "",
     "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLCqltLvJjROocB8nDGLO2_E-aiSqu7OF93AO9X4KUg&s=10"
-  },
-  {
-    "id": "BCONCRETO14",
-    "categoria": "ferreteria",
-    "nombre": "BROCA CONCRETO 1/4\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://redmilh.com/3404-large_default/broca-para-concreto-sds-plus-i-316-x-6-14-x-4.jpg"
-  },
-  {
-    "id": "BCONCRETO316",
-    "categoria": "ferreteria",
-    "nombre": "BROCA CONCRETO 3/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/416052-1000-1000/113125.jpg?v=637219800661030000"
-  },
-  {
-    "id": "BCONCRETO38",
-    "categoria": "ferreteria",
-    "nombre": "BROCAS CONCRETO 3/8\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://construfacil.vtexassets.com/arquivos/ids/161240/BROCA-CONCRETO-TOOLCRAFT-3-8-X4-CONSTRUFACIL.jpg?v=638339371055300000"
-  },
-  {
-    "id": "BCONCRETO516",
-    "categoria": "ferreteria",
-    "nombre": "BROCA CONCRETO 5/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9X4FYPguk3Nf3gYEO1NLrMAUP8AzD0LK3dbwJPOtxHw&s=10"
-  },
-  {
-    "id": "BCONDIMENTERO20",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT12G7G18o9PraG33ei2MK7gP1h9SfZh7PMRxYL6eU8ag&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmRSlVe1EIJdN_7DYZjU_dyKAiZAOM5fs4V9vk9uwxw&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQErSRojSZGm4bpBezs7fRsFlRgsMMouABxQzoJBw5YEA&s"
-    ],
-    "nombre": "BOTELLERO CONDIMENTERO P/20CM - 470X150X440MM CIERRE LENTO",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_reel": "https://www.tiktok.com/@mascasaperu/video/7323383100065451269?q=botellero%20condimentero&t=1788889608680"
-  },
-  {
-    "id": "BDCENTRAL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "GUIABISAGRA",
-      "BFORSTNERH",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA CENTRAL C/35MM 110° - DANCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqgN7IoldhvX2lFtZklI_ISkhdjeN0fsd5WBe8yAQANA&s=10",
-    "url_pdf": "https://www.mediafire.com/file/j18im1q7gzs64xw/FT_BISAGRA_DANCO_110.pdf/file",
-    "url_reel": "https://www.tiktok.com/search/video?q=bisagras%20banco%20como%20instalar&t=1788208765732"
-  },
-  {
-    "id": "BDINTERIOR",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "GUIABISAGRA",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA INTERIOR C/35MM 110° - DANCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-gp4DyB-Nk1-ogv9SP0Dpocpxxix4zuWy5euUw5B4Wg&s=10",
-    "url_pdf": "https://www.mediafire.com/file/j18im1q7gzs64xw/FT_BISAGRA_DANCO_110.pdf/file",
-    "url_reel": "https://www.tiktok.com/search/video?q=bisagras%20banco%20como%20instalar&t=1788208765732"
-  },
-  {
-    "id": "BDINTERIOR26",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BPLANA26"
-    ],
-    "nombre": "BISAGRA INTERIOR 26MM DANCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV4N7QvBE2AJEI9EubsvMMJ0dERc1exBX83TuLdhvb_g&s=10",
-    "url_reel": "https://www.tiktok.com/@mueblesjerzy/video/7226181405208972550"
-  },
-  {
-    "id": "BDLATERAL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "PRBISAGRAS",
-      "BFORSTNERH",
-      "GUIABISAGRA"
-    ],
-    "nombre": "BISAGRA LATERAL C/35MM 110° - DANCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqIXfQWhJteJEGvhe6FpdyRJbD6Nyr12QGMMxuIrmlEg&s=10",
-    "url_pdf": "https://www.mediafire.com/file/j18im1q7gzs64xw/FT_BISAGRA_DANCO_110.pdf/file",
-    "url_reel": "https://www.tiktok.com/search/video?q=bisagras%20banco%20como%20instalar&t=1788208765732"
-  },
-  {
-    "id": "BDOCENTRAL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "GUIABISAGRA",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA CENTRAL C/35MM 110° DOCATTI",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://docatti.com/images/slider-home/GALERY_BISA_TWO_CENTRAL.jpg",
-    "url_pdf": "https://www.mediafire.com/file/8wxnq6ytom7dqin/FICHA_TECNICA_BISAGRA_DOCATTI.pdf/file"
-  },
-  {
-    "id": "BDOCSLATERAL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "GUIABISAGRA",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA CIERRE SUAVE LATERAL DOCATTI",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScjvOCvY7i5-MsA4xj2FlnHZ_hHistUq8xchgMH9i84Q&s=10",
-    "url_reel": "https://www.facebook.com/reel/1071106291839771"
-  },
-  {
-    "id": "BDODOBLEANGULAR",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA DOBLE ANGULAR DOCATTI",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmFBne6hTBzPgXdiFQ16kFGYb5m0fjZCuUlHy11w25Q&s=10",
-    "url_reel": "https://www.facebook.com/reel/3981029175544915"
-  },
-  {
-    "id": "BDOLATERAL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "GUIABISAGRA",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA LATERAL C/35MM 110° DOCATTI",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://docatti.com/images/slider-home/GALERY_BISA_ONE_LATERAL.jpg",
-    "url_pdf": "https://www.mediafire.com/file/8wxnq6ytom7dqin/FICHA_TECNICA_BISAGRA_DOCATTI.pdf/file",
-    "url_reel": "https://www.facebook.com/reel/1111968807042701"
-  },
-  {
-    "id": "BDOPARALELA",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BFORSTNERH",
-      "PRBISAGRAS"
-    ],
-    "nombre": "BISAGRA PARALELA TACO MARCO DOCATTI",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdt_5sx2bhRPvpJZojap4qIoRJfwB1PDwZD4uzM99jBA&s",
-    "url_reel": "https://www.facebook.com/reel/1857920361667108",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzGQr66dY4uTWcI3uAI_DRFYXzYy4c5funTbtKH489zA&s=10"
-  },
-  {
-    "id": "BDPERFILCENTRAL",
-    "categoria": "ferreteria",
-    "nombre": "BISAGRA P/ PERFIL CENTRAL DANCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://dojiw2m9tvv09.cloudfront.net/105613/product/X_captura4815.JPG?71&t=1788468338"
-  },
-  {
-    "id": "BFORSTNERH",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BASCLATERAL",
-      "BACSCENTRAL",
-      "BACSINTERIOR",
-      "GUIABISAGRA"
-    ],
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BFORSTNER.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BFORSTNER1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BFORSTNER2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/BFORSTNER3.png?raw=true"
-    ],
-    "nombre": "BROCA FORSTNER 35MM HALCON",
-    "subcategoria": "BISAGRAS",
-    "url_reel": "https://www.tiktok.com/@elcarpientero/video/7597162548340821260?q=broca%20forstner%2035mm&t=1788043662801"
-  },
-  {
-    "id": "BLLATERAL26",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BPLANA26"
-    ],
-    "nombre": "BISAGRA LATERAL C/26MM LECCO",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://www.ferropolis.pe/cdn/shop/products/19015.webp?v=1650659094",
-    "url_reel": "https://www.tiktok.com/@lukkas.gudino/video/7283919381225098502?q=bisagra%20lateral%2026mm&t=1788463644752"
-  },
-  {
-    "id": "BPISTON",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/10/CL_4010049000_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_4010049000_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "BRAZO PISTON A GAS",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/10/AR_40117007_IMG_PROD1_BL-1024x576.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_237166_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_237166_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@igraherrajes/video/7283153167766850822"
-  },
-  {
-    "id": "BPLANA26",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BDINTERIOR26",
-      "BLLATERAL26"
-    ],
-    "nombre": "BROCA PLANA 26MM IRWIN",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://cahema.pe/80603-home_default/broca-paleta-26mm-x-4-para-madera-irwin-iw14334.jpg"
-  },
-  {
-    "id": "BRILLOL",
-    "categoria": "ferreteria",
-    "nombre": "BRILLOL P/ MELAMINA 250ML",
-    "subcategoria": "ACABADOS",
-    "url_imagen": "https://psquality.com/wp-content/uploads/2025/04/BRILLOLS-MELAMINA.png"
-  },
-  {
-    "id": "BROCAMADERA",
-    "categoria": "ferreteria",
-    "nombre": "BROCA PARA MADERA 1/8\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/7541442-1000-1000/image-85f8d037623143abb50e7ced5436dfb5.jpg?v=638334250493900000"
-  },
-  {
-    "id": "BROCAMADERA316",
-    "categoria": "ferreteria",
-    "complementos": [
-      "SRTRANSPARENTE"
-    ],
-    "nombre": "BROCA PARA MADERA 3/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV87172mbPtL33bCTIpqah_lxKpJmfkyuH5GNdliAyWOxjiKwz3qvEwdAN&s=10"
-  },
-  {
-    "id": "BROCAMETAL116",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://mundoconstructor.com.pe/wp-content/uploads/2024/11/broca-hss-1-16-trugold-para-metal-truper-expert-20b-600x600.jpg",
-      "https://cahema.pe/50316-large_default/broca-hss-116-11110-truper.webp"
-    ],
-    "nombre": "BROCA METAL MADERA 1/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://cahema.pe/50316-large_default/broca-hss-116-11110-truper.webp"
-  },
-  {
-    "id": "BROCAMETAL12",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 1/2\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/794055/119436.jpg?v=637503976194470000"
-  },
-  {
-    "id": "BROCAMETAL1364",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 13/64",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2cijvb3JuHKuYIXTdi-tb94y5J3LPJswMyMfSLcaeXuSrEZA5u_pDoA&s=10"
-  },
-  {
-    "id": "BROCAMETAL14",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 1/4\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/586204/125618.jpg?v=637414219303530000"
-  },
-  {
-    "id": "BROCAMETAL1564",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 15/64\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://grupodjj.pe/wp-content/uploads/2024/07/2608585447-000_01.jpg"
-  },
-  {
-    "id": "BROCAMETAL18",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 1/8\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://www.lenmex.pe/web/image/product.image/3709/image_1024/Broca%20HSS%201-8%22%20x%2065mm%20para%20Metal%20Dewalt%20DW170018B_2?unique=a21f922"
-  },
-  {
-    "id": "BROCAMETAL316",
-    "categoria": "ferreteria",
-    "complementos": [
-      "SRTRANSPARENTE"
-    ],
-    "nombre": "BROCA METAL MADERA 3/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/585821/125590.jpg?v=637414134185730000"
-  },
-  {
-    "id": "BROCAMETAL332",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://promart.vteximg.com.br/arquivos/ids/602082-1000-1000/125243_4.jpg?v=637425293852570000",
-      "https://promart.vteximg.com.br/arquivos/ids/602081-1000-1000/125243.jpg?v=637425293849900000"
-    ],
-    "nombre": "BROCA METAL MADERA 3/32\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://promart.vteximg.com.br/arquivos/ids/602081-1000-1000/125243.jpg?v=637425293849900000"
-  },
-  {
-    "id": "BROCAMETAL38",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 3/8\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://media.falabella.com/falabellaPE/115772517_01/public"
-  },
-  {
-    "id": "BROCAMETAL516",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 5/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbAMvipIIQcTug-NG-4C0wVHPPm6Aa3x054bcP6Swz5Q&s=10"
-  },
-  {
-    "id": "BROCAMETAL532",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://promart.vteximg.com.br/arquivos/ids/635420-1000-1000/125697.jpg?v=637437313410570000",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlr3qFmz8SaKwpP-mUTzzhf8aIJPjbymT5P8_5GHKtj8wyy7YMaVeSnbQ&s=10"
-    ],
-    "nombre": "BROCA METAL MADERAL 5/32\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlr3qFmz8SaKwpP-mUTzzhf8aIJPjbymT5P8_5GHKtj8wyy7YMaVeSnbQ&s=10"
-  },
-  {
-    "id": "BROCAMETAL564",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzyZlag6J0cYGXxjrDIUumrcqoiODfxi5TPsaw8zW4Gw&s=10",
-      "https://grupodjj.pe/wp-content/uploads/2024/07/2608577317-000_01.jpg"
-    ],
-    "nombre": "BROCA METAL MADERA 5/64\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://grupodjj.pe/wp-content/uploads/2024/07/2608577317-000_01.jpg"
-  },
-  {
-    "id": "BROCAMETAL716",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERO 7/16\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://cahema.pe/75810-large_default/broca-hss-716-para-metal-dewalt-dw130716c.jpg"
-  },
-  {
-    "id": "BROCAMETAL764",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://promart.vteximg.com.br/arquivos/ids/794263/124914.jpg?v=637503980842400000",
-      "https://cahema.pe/50319-large_default/broca-hss-764-11116-truper.webp"
-    ],
-    "nombre": "BROCA METAL MADERA 7/64\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://cahema.pe/50319-large_default/broca-hss-764-11116-truper.webp"
-  },
-  {
-    "id": "BROCAMETAL932",
-    "categoria": "ferreteria",
-    "nombre": "BROCA METAL MADERA 9/32\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbiFRmb5NAcuY7SCUDb_ttyEE7KsSIT6JCFHMSN9MOjiC28Cg8k55o-FdW&s=10"
-  },
-  {
-    "id": "BROCAMETAL964",
-    "categoria": "ferreteria",
-    "medidas": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRof4sXDSiwtYBNPrvIPcFWqvTV70E5jRiU4CDZnYvEoQ&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2sJsJm7eUhFz59Ipct81MtJ5fwSKG7mMFWKKbPFMyrqxWKHKhcbzOyRg&s=10"
-    ],
-    "nombre": "BROCA METAL 9/64\"",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2sJsJm7eUhFz59Ipct81MtJ5fwSKG7mMFWKKbPFMyrqxWKHKhcbzOyRg&s=10"
-  },
-  {
-    "id": "CESTOV294",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://www.micocinaonline.com/406-thickbox_default/herrajes-cocina-cesto-verdulero-independiente.jpg",
-      "https://www.micocinaonline.com/405-thickbox_default/herrajes-cocina-cesto-verdulero-independiente.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEC2FNegZ7c1o067beDZ0PDwCsZk1QiqO7UPiGZmU6WQ&s=10"
-    ],
-    "nombre": "CESTO VERDULERO CIERRE LENTO 400/460X294X130MM",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_reel": "https://www.youtube.com/watch?v=JR3O1g4XdCw"
-  },
-  {
-    "id": "CINTADOBLECONTACTO",
-    "categoria": "ferreteria",
-    "nombre": "CINTA DOBLE CONTACTO 19MM X 5M KNAUFF",
-    "otras_medidas": [
-      "CINTA DOBLE CONTACTO 19MMX 2.5M - KNAUFF"
-    ],
-    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
-    "url_imagen": "https://cdn.ardiles.pe/productos/xl/cinta-doble-contacto-19mm-x-5m-knauff-0020103002885-4-1.jpg",
-    "url_reel": "https://www.tiktok.com/@ferreboomdistribuidora/video/7675198556801682696?q=cinta%20doble%20contacto%20knauff&t=1787419461879"
-  },
-  {
-    "id": "CL120L12V",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl120120.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl120120a.png?raw=true"
-    ],
-    "nombre": "CINTA LED 12V AMARILLO Y BLANCO 120 LEDS",
-    "subcategoria": "ILUMINACION"
-  },
-  {
-    "id": "CL240220V",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl240220.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl240220a.png?raw=true"
-    ],
-    "nombre": "CINTA LED 220V AMARILLO 240 LEDS",
-    "subcategoria": "ILUMINACION",
-    "url_reel": "https://www.tiktok.com/@sin_astillas/video/7653606137366990100?q=cinta%20led%20220v%20&t=1790099530703"
-  },
-  {
-    "id": "CL240L12V",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl240120.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/cl240120a.png?raw=true"
-    ],
-    "nombre": "CINTA LED 12V AMARILLO Y BLANCO 240 LEDS",
-    "subcategoria": "ILUMINACION"
-  },
-  {
-    "id": "CLCS",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/clcs.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/clcsa.png?raw=true",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGWhlh3B0H31YAqOSj-K2pXeCVPq4YoK2PNmqHAxOBQ&s=10"
-    ],
-    "nombre": "CINTA LED AMARILLO CON SILICONA 12V 120 LEDS",
-    "otras_medidas": [
-      "CINTA LED BLANCO CON SILICONA 12V 120 LEDS"
-    ],
-    "subcategoria": "ILUMINACION",
-    "url_reel": "https://www.tiktok.com/@iluminacionesgc/video/7656112584956890389?q=cinta%20led%20con%20silicona&t=1790195005756"
-  },
-  {
-    "id": "CLRGB",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://www.ledlumi.com.pe/public/frontend/images/producto/0911202219451518.jpg",
-      "https://www.ledlumi.com.pe/public/frontend/images/producto/0911202219451540.jpg",
-      "https://www.ledlumi.com.pe/public/frontend/images/producto/0911202219451575.jpg"
-    ],
-    "nombre": "CINTA LED RGB X 5MT +CONTROL + TRANSFORMADOR",
-    "subcategoria": "ILUMINACION",
-    "url_reel": "https://www.tiktok.com/@ilumitechno/video/7529698562578320646?q=cinta%20led%20rgb&t=1790197006997"
-  },
-  {
-    "id": "CTCSHALCON",
-    "categoria": "ferreteria",
-    "nombre": "CORREDERA TELESCOPICA CIERRE SUAVE HALCON",
-    "otras_medidas": [
-      "10\" - 250MM",
-      "12\" - 300MM",
-      "14\" - 350MM",
-      "16\" - 400MM",
-      "18\" - 450MM",
-      "20\" - 500MM"
-    ],
-    "subcategoria": "CORREDERAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5fz7jys6CF3hBML3FUxnz-RF4334y_7OrIjRrcj9LQ&s",
-    "url_reel": "https://www.tiktok.com/@elcarpinmeme/video/7405824600224894214?q=instalar%20correderas%20cierre%20lento&t=1788639551976"
-  },
-  {
-    "id": "CTOHALCON",
-    "categoria": "ferreteria",
-    "nombre": "CORREDERA OCULTA HALCON 18\" 450MM Y 20\" 500MM",
-    "subcategoria": "CORREDERAS",
-    "url_imagen": "https://www.maxavegroup.com/wp-content/uploads/2022/11/1-Pair-concealed-drawer-slides-Single-Extension-Stainless-Steel-Soft-Close1.jpg",
-    "url_reel": "https://www.tiktok.com/@savecoficial/video/7548552775802555666?q=instalar%20correderas%20ocultas&t=1788640357880"
-  },
-  {
-    "id": "CTPHALCON",
-    "categoria": "ferreteria",
-    "nombre": "CORREDERA TELESCOPICA PESADA HALCON",
-    "otras_medidas": [
-      "08\" - 200MM",
-      "14\" - 350MM",
-      "16\" - 400MM",
-      "18\" - 450MM",
-      "20\" - 500MM",
-      "22\" - 550MM",
-      "24\" - 600MM"
-    ],
-    "subcategoria": "CORREDERAS",
-    "url_imagen": "https://www.serrature.com.pe/api/scrooge/file/FL-2BE68B69?v=-2",
-    "url_reel": "https://www.tiktok.com/@innoba.sg/video/7428600749958941958?q=instalar%20correderas%20telescopicas&t=1788629944374",
-    "url_subcategoria": "https://www.serrature.com.pe/api/scrooge/file/FL-B8288663?v=-2"
-  },
-  {
-    "id": "CTPUHALCON",
-    "categoria": "ferreteria",
-    "nombre": "CORREDERA TELESCOPICA PUSH HALCON",
-    "otras_medidas": [
-      "10\" - 250MM",
-      "12\" - 300MM",
-      "14\" - 350MM",
-      "16\" - 400MM",
-      "18\" - 450MM",
-      "20\" - 500MM"
-    ],
-    "subcategoria": "CORREDERAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCI863JcDjo0EQapT-uKHwDMKlF8f2LjNA3m6kFQbdQg&s",
-    "url_reel": "https://www.tiktok.com/@decorale_14/video/7314883765996883205?q=instalar%20telescopicas%20push&t=1788639443121"
-  },
-  {
-    "id": "CTSPHALCON",
-    "categoria": "ferreteria",
-    "nombre": "CORREDERA TELESCOPICA SUPER PESADA HALCON",
-    "otras_medidas": [
-      "10\" - 250MM",
-      "12\" - 300MM",
-      "14\" - 350MM",
-      "16\" - 400MM",
-      "18\" - 450MM",
-      "20\" - 500MM"
-    ],
-    "subcategoria": "CORREDERAS",
-    "url_imagen": "https://www.serrature.com.pe/api/scrooge/file/FL-A8935A8B?v=-2",
-    "url_reel": "https://www.tiktok.com/@innoba.sg/video/7428600749958941958?q=instalar%20correderas%20telescopicas&t=1788629944374"
-  },
-  {
-    "id": "CUCROUTER12",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-2+E1.jpg",
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-2+FC2.jpg",
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-2+FC1.jpg"
-    ],
-    "nombre": "CUCHILLA ROUTER RECTA 2 FILOS 1/2\" 11456 TRUPER",
-    "url_imagen": "https://www.truper.com/media/import/imagenes/BROU-R2-1-2.jpg",
-    "url_pdf": "https://www.truper.com/ficha_tecnica_pdf/views/ficha-print.php?id=492",
-    "url_reel": "https://www.youtube.com/shorts/cN9XrNAtdOo"
-  },
-  {
-    "id": "CUCROUTER14",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-4L+E1.jpg",
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-4L+FC2.jpg",
-      "https://www.truper.com/media/import/imagenes/BROU-R2-1-4L+FC1.jpg"
-    ],
-    "nombre": "CUCHILLA ROUTER RECTA 2 FILOS 1/4\" 11453 TRUPER",
-    "url_imagen": "https://www.truper.com/media/import/imagenes/BROU-R2-1-4L.jpg",
-    "url_pdf": "https://www.truper.com/ficha_tecnica_pdf/views/ficha-print.php?id=489",
-    "url_reel": "https://www.youtube.com/shorts/emBi3CfyppI"
-  },
-  {
-    "id": "CUTERPRETUL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RCUCHILLA"
-    ],
-    "imagenes": [
-      "https://www.truper.com/media/import/imagenes/CUT-6PB+E1.jpg",
-      "https://www.truper.com/media/import/imagenes/CUT-6PB+FC2.jpg",
-      "https://www.truper.com/media/import/imagenes/CUT-6PB.jpg"
-    ],
-    "nombre": "CUTER PLASTICO PRETUL 18MM",
-    "url_imagen": "https://www.truper.com/media/import/imagenes/CUT-6PB+BIZQ1.jpg",
-    "url_pdf": "https://www.truper.com/ficha_tecnica_pdf/views/ficha-print.php?id=1174",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgAeo_ZmMB2i0H9HmGwrsCWUq3FU9ceakPlbrXJh389A&s=10"
-  },
-  {
-    "id": "D-25",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100117101_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100117101_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA D-25",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100117101_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100117101_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100117101_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@igraherrajes/video/7275359401991539973?q=sistema%20d-25&t=1786377971530",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS138NlcZ4HPF98QsraV5b3fIkugIZtvjat8fA07ut7sw&s=10"
-  },
-  {
-    "id": "D100",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217501_img_apli1-1024x576.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217501_img_prod1_bl.jpg"
-    ],
-    "nombre": "SISTEMA D-100",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100217501_img_prod1_bl.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217501_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217501_FICHA.pdf",
-    "url_reel": ""
-  },
-  {
-    "id": "D52BOLSA",
-    "categoria": "ferreteria",
-    "complementos": [
-      "D52GUIA",
-      "D52RIEL",
-      "D52CAJA"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/wp-content/uploads/2023/12/background_d52-scaled.jpg",
-      "https://ducasseindustrial.com/wp-content/uploads/2025/01/d-52-polin.jpg"
-    ],
-    "nombre": "SISTEMA D-52 SILENT (BOLSA)",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/wp-content/uploads/2025/01/D52_SILENT_POLIN-1920x1080_fondoblanco.jpg",
-    "url_manual": "https://www.mediafire.com/file/63ftafg98w7cw2b/Ficha_D52-SILENT_v01_1023.pdf/file",
-    "url_reel": "https://www.tiktok.com/@distribuidoraguialex/video/7627166442491759893?q=sistema%20d52%20silent%20ducasse&t=1787782777269"
-  },
-  {
-    "id": "D52CAJA",
-    "categoria": "ferreteria",
-    "complementos": [
-      "D52GUIA",
-      "D52RIEL"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100106201_IMG_APL1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100106201_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA D-52",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/10/AR_10100106201_IMG_PROD1_BL-1.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100106201_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100106201_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@danilo.distribuidora.ok/video/7594601856001690891"
-  },
-  {
-    "id": "D52GUIA",
-    "categoria": "ferreteria",
-    "complementos": [
-      "D52CAJA",
-      "D52RIEL",
-      "D52BOLSA"
-    ],
-    "nombre": "GUIA D-52 - 2 Y 3 MT",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_1010058200_IMG_PROD1_BL.jpg"
-  },
-  {
-    "id": "D52RIEL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "D52GUIA",
-      "D52CAJA",
-      "D52BOLSA"
-    ],
-    "nombre": "RIEL D-52 - 2 Y 3MT",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_1010057200_IMG_PROD1_BL.jpg"
-  },
-  {
-    "id": "DALMENDRA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2021/10/Auro-render-2.jpg",
-      "https://duratex.com.co/wp-content/uploads/2021/10/Auro-render-4.jpg",
-      "https://duratex.com.co/wp-content/uploads/2021/10/Auro-render-3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2021/10/Auro-render-1.jpg"
-    ],
-    "nombre": "DURATEX ALMENDRA 18X1850X2750",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2021/10/Auro-imagen-diseno-745x1024.jpg",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSXFYm4eBOyveKWsrUOBDf0Kn1lZ0CgDsnvU2YuwgiA&s=10"
-  },
-  {
-    "id": "DALUMINIO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/prata_thassos_eclipse_590x370px_jpg_fd8e209547.webp",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_ambiente_prata_842x533_590x370_cd25dd503e.jpg"
-    ],
-    "nombre": "DURATEX PRATA ALUMINIO 18X1850X2750MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_padrao_prata_842x533_590x370_e124bc1cde.jpg",
-    "url_reel": "https://www.tiktok.com/@felix.planejados/video/7494763492138831109?q=duratex%20prata&t=1787169515285"
-  },
-  {
-    "id": "DARENA",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-arena-espacios3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-arena-espacios4.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-arena-espacios1.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-arena-espacios2.jpg"
-    ],
-    "nombre": "DURATEX ARENA 18X2150X2440",
-    "otras_medidas": "15x1750x2750MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/Duratex-arena.jpg",
-    "url_reel": "https://www.tiktok.com/@miguelmesacarpinteria/video/7558228247020948748?q=duratex%20arena&t=1787176199474"
-  },
-  {
-    "id": "DBRIXTON",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://static.wixstatic.com/media/90c82c_b6bae585b29e42dd8b469561f8adcd19~mv2.jpg/v1/crop/x_47,y_0,w_907,h_600/fill/w_544,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DURATEX-BRIXTON-ESPACIOS-2.jpg",
-      "https://static.wixstatic.com/media/90c82c_4c9cc3297eec4c0180ddf6ec4e2ee8ce~mv2.jpeg/v1/fill/w_397,h_397,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Brixton-Duratex-Tablecortes.jpeg"
-    ],
-    "nombre": "DURATEX BRIXTON 18X2150X2440MM",
-    "otras_medidas": "DURATEX BRIXTON 15X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://static.wixstatic.com/media/90c82c_4c9cc3297eec4c0180ddf6ec4e2ee8ce~mv2.jpeg/v1/fill/w_397,h_397,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Brixton-Duratex-Tablecortes.jpeg",
-    "url_reel": "https://www.tiktok.com/@crearhogarperu/video/7329611888877178118?q=melamina%20brixton&t=1787603199110"
-  },
-  {
-    "id": "DCAPUCCINO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-capuccino-espacios3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-capuccino-espacios1.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-capuccino-espacios2.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-capuccino-espacios2.jpg"
-    ],
-    "nombre": "DURATEX CAPUCCINO 18X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2022/02/Capuccino-vint-tend-duratex-descarga.jpg",
-    "url_reel": "https://www.tiktok.com/@improin_hn/video/7655777492254379284?q=melamina%20capuchino&t=1787603803549"
-  },
-  {
-    "id": "DCARBONO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/08/TABACO-CHIC-248X330.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/07/TABACO-CHIC.jpg"
-    ],
-    "nombre": "DURATEX CARBONO 18X2150X2440MM",
-    "otras_medidas": "DURATEX CARBONO 18X2100X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/TABACO-CHIC.jpg",
-    "url_reel": "https://www.instagram.com/reel/DFqaXdBS1YK/"
-  },
-  {
-    "id": "DCARVALHOMUNIQUE",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_munique_thassos_opala_590x370px_jpg_4f9591e1b6.webp",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_design_ambiente_carvalho_munique_117x120_40a118219f.jpg"
-    ],
-    "nombre": "DURATEX CARVALHO MUNIQUE 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX CARVALHO MUNIQUE 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_disng_padrao_carvalho_munique_842x533_590x370_2a3d8e730e.jpg",
-    "url_reel": "https://www.tiktok.com/@ambienti.moveis/video/7645049045249051924?q=carvalho%20munique%20duratex&t=1787695938032"
-  },
-  {
-    "id": "DCEDRO",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://media.falabella.com/sodimacPE/4192656_01/w=1200,h=1200,fit=pad",
-      "https://www.instagram.com/p/DRfLwVhDm4u/",
-      "https://static.wixstatic.com/media/90c82c_cddafdc6163042c69204d85850a48860~mv2.jpg/v1/crop/x_47,y_0,w_907,h_600/fill/w_544,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/duratex-cedro-espacios3.jpg"
-    ],
-    "nombre": "DURATEX CEDRO SOFT 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX CEDRO SOFT 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://media.falabella.com/sodimacPE/4192656_01/w=1200,h=1200,fit=pad"
-  },
-  {
-    "id": "DCHANTILLI",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/11/CHANTILLI%CC%81-1000x600-01.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/11/CHANTILLI%CC%81-1000x600-02.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/11/CHANTILLI%CC%81-1000x600-04.jpg"
-    ],
-    "nombre": "DURATEX CHANTILLY 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX CHANTILLY 15X2150X2440MM",
-      "DURATEX RH CHANTILLY 18X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/Duratex-chantilli.jpg",
-    "url_reel": "https://www.tiktok.com/@cjaponte/video/7136273391551515910?q=MELAMINA%20CHANTILLY&t=1787754055295"
-  },
-  {
-    "id": "DFIBRANATIVA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://images.cws.digital/produtos/gg/15/06/mdf-fibra-nativa-quadratta-18mm-2750x1850mm-2-faces-duratex-10280615-1754493508909.jpg",
-      "https://images.cws.digital/produtos/gg/15/06/mdf-fibra-nativa-quadratta-18mm-2750x1850mm-2-faces-duratex-10280615-1754318989324.jpg"
-    ],
-    "nombre": "DURATEX FIBRA NATIVA TEXTIL 18X185X2750",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://images.cws.digital/produtos/gg/15/06/mdf-fibra-nativa-quadratta-18mm-2750x1850mm-2-faces-duratex-10280615-1754493521087.jpg",
-    "url_reel": "https://www.instagram.com/reel/CiuoOwmjb-u/"
-  },
-  {
-    "id": "DFREIJOPURO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/thumb_ambiente_freijo_puro_85282b414c.png",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/freijo_puro_hong_kong_verde_real_590x370px_jpg_2bfe42133e.webp"
-    ],
-    "nombre": "DURATEX FREIJO PURO 18X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_freijo_puro_jpg_67cecbe1ef.webp",
-    "url_reel": "https://www.tiktok.com/@marcenariadamaeceno/video/7621902111491624212?q=freijo%20puro&t=1787755504925"
-  },
-  {
-    "id": "DGIANDUIA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_2_copiar_144x129_png_d3b6b0e8ae.webp",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_PURO_1_png_c0a7a14c72.webp"
-    ],
-    "nombre": "DURATEX GIANDUIA 18X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_copiar_1_48f2808945.png",
-    "url_reel": "https://www.tiktok.com/@integra.3d/video/7361793712155888902?q=MDF%20GIANDUIA&t=1787755724189"
-  },
-  {
-    "id": "DGRISAURORA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/thumb_ambiente_aurora_a0fcebabe3.png",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/aurora_carvalho_eterno_sirena_590x370px_62096f9ff9.jpg"
-    ],
-    "nombre": "DURATEX GRIS AURORA TRAMA 18X1850X2750MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Aurora_Trama590px_x_370px_png_8ca403e3af.webp",
-    "url_reel": "https://www.tiktok.com/@guilhermelage25/video/7328803839258266885?q=mdf%20aurora&t=1787756483054"
-  },
-  {
-    "id": "DHUMO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-humo-espacios1.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-humo-espacios2.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-humo-espacios3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-humo-espacios4.jpg"
-    ],
-    "nombre": "DURATEX HUMO MADERADO 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX HUMO MADERADO 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/Duratex-humo.jpg",
-    "url_reel": "https://www.tiktok.com/@javycolmenares/video/7460595884405820677?q=melamina%20humo&t=1787756983509"
-  },
-  {
-    "id": "DIBIZA",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://images.cws.digital/produtos/gg/78/07/mdf-ibiza-design-6mm-2750x1840mm-2-faces-com-1-face-branco-duratex-10280778-1754319422777.jpg",
-      "https://images.cws.digital/produtos/gg/78/07/mdf-ibiza-design-6mm-2750x1840mm-2-faces-com-1-face-branco-duratex-10280778-1754319405459.jpg"
-    ],
-    "nombre": "DURATEX IBIZA 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX RH IBIZA 18X2150X2440MM",
-      "DURATEX IBIZA 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://images.cws.digital/produtos/gg/78/07/mdf-ibiza-design-6mm-2750x1840mm-2-faces-com-1-face-branco-duratex-10280778-1754494264821.jpg",
-    "url_reel": "https://www.tiktok.com/@chasquimuebles/video/7626922434159054098?q=melamina%20ibiza&t=1787757607812"
-  },
-  {
-    "id": "DITAPUA",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/thumb_ambiente_itapua_d3eabf76f2.png",
-      "https://www.duratex.com.br/produtos/itapua"
-    ],
-    "nombre": "DURATEX ITAPUA MADERADO 18X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_wood_padrao_itapua_842x533_2_590x370_30a7341251.jpg",
-    "url_reel": "https://www.tiktok.com/@we.nosso.lar/video/7633947040501763349?q=mdf%20iatpua&t=1787758125149"
-  },
-  {
-    "id": "DJEQUITIBA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/T_Ambiente_Essencial_Wood_Jequitiba_Rosa_e39199b8c0.png",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Wood_Jequitiba_Rosa_Singular_Mineral_Dourado_Essencial_Cinza_Sagrado_Perola_Urbana_114x129px_a6cdd7575d.jpg",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_padrao_Essencial_Wood_Jequitiba_Rosa_c1691c5ce2.jpg"
-    ],
-    "nombre": "DURATEX JEQUITIBA ROSA 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX JEQUITIBA ROSA 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_padrao_Essencial_Wood_Jequitiba_Rosa_c1691c5ce2.jpg",
-    "url_reel": "https://www.tiktok.com/@marcenaria.carvalho/video/7646421682898472212?q=mdf%20jequitiba&t=1787758430548"
-  },
-  {
-    "id": "DLINEO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://images.cws.digital/produtos/gg/92/71/mdf-lineo-textil-prisma-18mm-2750x1850mm-2-faces-duratex-10277192-1754319694559.jpg",
-      "https://images.cws.digital/produtos/gg/92/71/mdf-lineo-textil-prisma-18mm-2750x1850mm-2-faces-duratex-10277192-1754319693912.jpg"
-    ],
-    "nombre": "DURATEX LINEO TEXTIL 18X1850X2750MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://images.cws.digital/produtos/gg/92/71/mdf-lineo-textil-prisma-18mm-2750x1850mm-2-faces-duratex-10277192-1754494742519.jpg"
-  },
-  {
-    "id": "DLUNAR",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/07/lunar-galeria1.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/07/lunar-galeria2.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/07/lunar-galeria3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/07/lunar-galeria4.jpg"
-    ],
-    "nombre": "DURATEX CEMENTO 18X1850X2750MM LUNAR",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/LUNAR-1024x1024.jpg",
-    "url_reel": "https://www.tiktok.com/@carpinteriaveloza/video/7332120343873719557"
-  },
-  {
-    "id": "DN80PL2",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RIEL100"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217301_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217301_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA DN-80 PL 2 HOJAS",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100217301_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217301_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217301_FICHA.pdf",
-    "url_reel": "https://www.youtube.com/watch?v=vl9500mG6G0"
-  },
-  {
-    "id": "DN80PL4",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RIEL100"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217401_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217401_IMG_APLI2-1024x576.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217401_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA DN-80 PL 4 HOJAS",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100217401_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217401_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217401_FICHA.pdf",
-    "url_reel": "https://www.instagram.com/reel/DPkA-3FEUWO/?igsh=MWcxNmh1YnByaW5rag=="
-  },
-  {
-    "id": "DN80SR",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RIEL100"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217451_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100217451_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA DN-80 SR",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100217451_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217451_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100217451_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@igraherrajes/video/7328860585007910149"
-  },
-  {
-    "id": "DNEGRO",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2024/06/Negro-2.jpg",
-      "https://duratex.com.co/wp-content/uploads/2024/06/Negro.jpg"
-    ],
-    "nombre": "DURATEX NEGRO 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX NEGRO 15X2150X2440MM",
-      "DURATEX RH NEGRO 18X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2024/06/Negro-Diseno.png",
-    "url_reel": "https://www.tiktok.com/@fernandogamarano.arq/video/7480701899654696197?q=duratex%20mdf%20preto&t=1787761261698"
-  },
-  {
-    "id": "DNOCEMARE",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/thumb_ambiente_noce_mare_442faa64d4.png",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/noce_mare_steel_arenito_590x370px_jpg_f8658d723d.webp"
-    ],
-    "nombre": "DURATEX NOCE MARE 18X1850X2750MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_padrao_noce_mare_842x533_590x370_9d1870b360.jpg",
-    "url_reel": "https://www.tiktok.com/@alexandrecarlosal4/video/7621573036923178260?q=mdf%20noce%20mare&t=1787761913130"
-  },
-  {
-    "id": "DNOGUEIRABRISE",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://madeksa.com.py/wp-content/uploads/2023/06/25a46809676aea6b20b89b76939713a9.jpg",
-      "https://madeksa.com.py/wp-content/uploads/2023/06/248b867f94afd35464d2823ef5951795.jpg",
-      "https://madeksa.com.py/wp-content/uploads/2023/06/82ac33a04e757bb59e2cdd9c01752606.jpg"
-    ],
-    "nombre": "DURATEX NOGUEIRA BRISE 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX NOGUEIRA BRISE 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://madeksa.com.py/wp-content/uploads/2023/06/Imagen-de-WhatsApp-2023-08-05-a-las-11.09.58.jpg",
-    "url_reel": "https://www.instagram.com/reel/DS5r3EvCQt3/"
-  },
-  {
-    "id": "DNOGUEIRAFLORIDA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nogueira_Florida_114x129_1_3e1e46e97b.png",
-      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Mood_Nogueira_Florida_590x370_1_png_72818ddac3.webp"
-    ],
-    "nombre": "DURATEX NOGUEIRA FLORIDA 18X2150X2440MM",
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Nogueira_Florida590x370_png_081d76def3.webp",
-    "url_reel": "https://www.tiktok.com/@maayutil/video/7609660999204949269?q=nogueira%20florida%20&t=1787772082301"
-  },
-  {
-    "id": "DPIGNETTO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://static.wixstatic.com/media/90c82c_9c22edd600a24c9d9932f85ecfad5293~mv2.jpg/v1/fill/w_397,h_397,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/dise%C3%B1o-pignetto.jpg",
-      "https://static.wixstatic.com/media/90c82c_5b2b848ead6f486d9d33c02eb3260f7e~mv2.jpg/v1/crop/x_47,y_0,w_907,h_600/fill/w_544,h_360,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/DURATEX-PIGNETTO-ESPACIOS-4.jpg"
-    ],
-    "nombre": "DURATEX PIGNETTO 15X2100X2440MM",
-    "subcategoria": "DURATEX"
-  },
-  {
-    "id": "DSERENA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/serena.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/serena1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/serena2.png?raw=true"
-    ],
-    "nombre": "DURATEX SERENA 18X1840X2750",
-    "subcategoria": "DURATEX"
-  },
-  {
-    "id": "DT120T24",
-    "imagenes": [
-      "https://www.amanatool.com/pub/media/catalog/product/d/t/dt120t20.jpg",
-      "https://www.amanatool.com/pub/media/custom/upload/DT120T20-L.jpg"
-    ],
-    "nombre": "DISCO INCISOR 120 X 5.4 X 20 X Z24 / DT120T24/AMANA",
-    "subcategoria": "AMANA",
-    "url_pdf": "https://www.amanatool.com/dt120t20-carbide-tipped-ditec-2000-adjustable-type-scoring-120mm-dia-x-20t-atb-8-deg-20mm-bore-scoring-set.html"
-  },
-  {
-    "id": "DUCLOSETDOBLE",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RIELU20"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100201301_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100201301_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA DUCLOSET DOBLE",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100201301_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100201301_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100201301_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@ducasseindustrial_mx/video/7626097754712182036?q=ducloset%20doble&t=1786225323641"
-  },
-  {
-    "id": "DUCLOSETSIMPLE",
-    "categoria": "ferreteria",
-    "complementos": [
-      "RIELU20"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100201201_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100201201_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA DUCLOSET SIMPLE",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100201201_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100201201_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100201301_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@jhoongomez5/video/7604603980236197141?q=ducloset%20simple&t=1786225109537"
-  },
-  {
-    "id": "DURAMAD",
-    "categoria": "ferreteria",
-    "nombre": "PRESERVANTE D/MADERA DURAMAT (GL)",
-    "otras_medidas": [
-      "PRESERVANTE D/MADERA DURAMAT (500ML)"
-    ],
-    "subcategoria": "ACABADOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEGYMf8SK8T2dy6B21Hp0VtoAW-c0mmt_aLSZ3zV_miD7N7hX5TdxFz98&s=10"
-  },
-  {
-    "id": "DVIENES",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-vienes-espacios3.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-vienes-espacios1.jpg",
-      "https://duratex.com.co/wp-content/uploads/2020/08/duratex-vienes-espacios2.jpg"
-    ],
-    "nombre": "DURATEX VIENES 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX VIENES 15X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://duratex.com.co/wp-content/uploads/2020/07/Duratex-vienes-1.jpg",
-    "url_reel": "https://www.tiktok.com/@carpinteriapablollanes/video/7406016600677043461?q=duratex%20vienes&t=1787776264562"
-  },
-  {
-    "id": "DWENGUE",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://maderable.co/wp-content/uploads/2023/06/wengue-foto.jpg"
-    ],
-    "nombre": "DURATEX WENGUE SOFT 18X2150X2440MM",
-    "otras_medidas": [
-      "DURATEX WENGUE SOFT 15X2150X2440MM",
-      "DURATEX RH WENGUE MAGIA 18X2150X2440MM"
-    ],
-    "subcategoria": "DURATEX",
-    "url_imagen": "https://maderable.co/wp-content/uploads/2023/06/wengue.jpg",
-    "url_reel": "https://www.tiktok.com/@renuevantusambientes/video/7300700826211994885?q=melamina%20duratex%20wengue&t=1787776513498"
-  },
-  {
-    "id": "EKOTINTE",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbnWNb0rP0NpM_j0K6voo5jcYvfzox9hPSfUK43b45wQ&s"
-    ],
-    "nombre": "EKOTINTE 250ML CAOBA - NOGAL",
-    "subcategoria": "ACABADOS"
-  },
-  {
-    "id": "ESCURREPLATO",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01wfbG2nTQoVOAF5S6ZN4Olo7jppbAbH7RRJw35h7ag&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOsQOLkwxJ3uJqEf7RkKEmgaQEsdsnBQSDT45h8aOoQ&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzkIDB4WIZFSZQnOc7adf9PBnYSiJVSVziKlVGvs_IuA&s"
-    ],
-    "nombre": "ESCURREPLATOS ACERO INOX 600MM",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_pdf": "https://www.mediafire.com/file/b3p01lpylcyr9hx/ESCURREPLATOS.pdf/file",
-    "url_reel": "https://www.tiktok.com/@thea.herrajes/video/7432013049709595910?q=ESCURREPLATO%2060CM&t=1788889014258"
-  },
-  {
-    "id": "FBLANCOMEDIO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/020-blanco-medio-soft-iv-1300x600.jpg"
-    ],
-    "nombre": "FINSA BLANCO 18X2100X2440",
-    "otras_medidas": [
-      "FINSA BLANCO 15X2100X2440"
-    ],
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FCUBOS",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kaqAyEOfKL8dP49ZoucLNLCkySdk3b392zqJngUXYg&s=10"
-    ],
-    "nombre": "FINSA CUBOS 18X2100X2440MM",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FGRISTORMENTA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/09f-gris-tormenta-soft-iii-1300x600_crop.jpg",
-      "https://www.finsa.com/documents/d/guest/09f-gris-tormenta-soft-iii-room_zoom.jpg"
-    ],
-    "nombre": "FINSA GRIS TORMENTA 18X2100X2440MM",
-    "subcategoria": "FINSA",
-    "url_reel": "https://www.tiktok.com/@viico_projects/video/7549285543238962440?q=melamina%20gris%20tormenta&t=1788984063460",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35ZY1j_ZK2EFonqoGI_y-LFMZl8eJNipxod0TF3xdiw&s"
-  },
-  {
-    "id": "FHAYADAIMIEL",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/375-haya-daimiel-mesura-1300x600.jpg",
-      "https://www.finsa.com/documents/d/guest/375-haya-daimiel-mesura-room_crop.jpg"
-    ],
-    "nombre": "FINSA HAYA DAIMIEL 18X2100X2440",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FNOGALCANALETO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/03c-nogal-canaletto-mesura-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/03c-nogal-canaletto-mesura-room_crop.jpg"
-    ],
-    "nombre": "FINSA NOGAL CANALETO 18X2100X2440MM",
-    "subcategoria": "FINSA",
-    "url_reel": "https://www.instagram.com/reels/DRR8Qp0DIGR/"
-  },
-  {
-    "id": "FOLDOAK",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/79y-old-oak-atlas-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/79y-old-oak-atlas-room_crop.jpg"
-    ],
-    "nombre": "FINSA OLD OAK 18X2100X2440",
-    "subcategoria": "FINSA",
-    "url_reel": "https://www.tiktok.com/@muebleria.torres22/video/7502504311147089160?is_from_webapp=1&sender_device=pc"
-  },
-  {
-    "id": "FOLMOBOVARY",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/98p-olmo-bovary-atlas-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/98p-olmo-bovary-atlas-room_crop.jpg"
-    ],
-    "nombre": "FINSA OLMO BOVARY 18X2100X2440MM",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FOLMOTORONTO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/08r-olmo-toronto-etna-1300x600.jpg",
-      "https://www.finsa.com/documents/d/guest/08r-olmo-toronto-etna-room_crop.jpg"
-    ],
-    "nombre": "FINSA OLMO TORONTO 18X2100X2440MM",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FOLMOVOLGA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/04r-olmo-volga-atlas-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/04r-olmo-volga-atlas-room_crop.jpg"
-    ],
-    "nombre": "FINSA OLMO VOLGA 18x2100x2440mm",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FROBLEHERCULES",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/80y-roble-hercules-atlas-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/80y-roble-hercules-atlas-room_crop.jpg"
-    ],
-    "nombre": "FINSA ROBLE HERCULES 18X2100X2440",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FROBLEJOPLIN",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/17n-roble-joplin-mesura-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/17n-roble-joplin-mesura-room_crop.jpg"
-    ],
-    "nombre": "FINSA ROBLE JOPLIN 18X2100X2440",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FROBLEVERSO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/273b-roble-verso-atlas-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/273b-roble-verso-atlas-room_crop.jpg"
-    ],
-    "nombre": "FINSA ROBLE VERSO 18X2100X2440",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FROBLEVIRGINIA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/25v-roble-virginia-mesura-1300x600_thumb.jpg",
-      "https://www.finsa.com/documents/d/guest/25v-roble-virginia-mesura-room_crop.jpg"
-    ],
-    "nombre": "FINSA ROBLE VIRGINIA 18X2100X2440",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FSAPELLY",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://www.finsa.com/documents/d/guest/633-sapelly-2-mesura-1300x600.jpg",
-      "https://www.finsa.com/documents/d/guest/633-sapelly-2-mesura-room_crop.jpg"
-    ],
-    "nombre": "FINSA SAPELLY 18X2100X2440MM",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "FVIGUERA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBz8otICtSLEBfa5pOuKw5csASjBCWHrea8UmH_QRhkA&s=10"
-    ],
-    "nombre": "FINSA VIGUERA 18X2100X2440MM",
-    "subcategoria": "FINSA"
-  },
-  {
-    "id": "GUIABISAGRA",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BACSINTERIOR",
-      "BACSCENTRAL",
-      "BASCLATERAL",
-      "BFORSTNERH"
-    ],
-    "imagenes": [
-      "https://laferretienda.com/wp-content/uploads/2022/03/naranja-guia-bisagra.jpg",
-      "https://laferretienda.com/wp-content/uploads/2022/03/guia-bisagra-cazoleta.jpg",
-      "https://laferretienda.com/wp-content/uploads/2022/03/guia-naranja-bisagra.jpg",
-      "https://laferretienda.com/wp-content/uploads/2022/03/guia-bisagra.jpg"
-    ],
-    "nombre": "GUIA P/INSTALACION Y PERFORACION DE BISAGRAS",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://laferretienda.com/wp-content/uploads/2022/03/guia-naranja.jpg",
-    "url_reel": "https://www.tiktok.com/@deyert_ferreteria/video/6997518147230240006?q=plantilla%20%20de%20bisagras&t=1787685272028"
-  },
-  {
-    "id": "JIANGSUARENA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/arena.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/arena1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/arena2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/arena3.png?raw=true"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO ARENA 18X1220X2800MM",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "JIANGSUBLANCO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5JZfTOvMXtG21GPdKtiRIZDnSzvxG8ufaDmFEQBvZ2Q&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-fc3bCbUSubX6pOyfrJZwAI9DdFPK5bjiJmi_AwxlEg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHwyKcOLCKu180GSazb8uUP_xX6_2GGH1pJFLiKBuppQ&s=10"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO BLANCO 18X1220X2800MM",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "JIANGSUCONCRETO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/concreto.jpg?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/concreto1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/concreto2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/concreto3.png?raw=true"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO CONCRETO 18X1220X2800MM",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "JIANGSUNEGRO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/negro.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/negro1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/negro2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/negro3.png?raw=true"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO NEGRO 18X1220X2800",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "JIANGSUROJO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/rojo.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/rojo1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/rojo2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/rojo3.png?raw=true"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO ROJO 18X1220X2800MM",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "JIANGSUVISON",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/vison.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/vison1.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/vison2.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/vison3.png?raw=true"
-    ],
-    "nombre": "JIANGSU ALTO BRILLO VISON 18X1220X2800MM",
-    "subcategoria": "MEL ALTO BRILLO"
-  },
-  {
-    "id": "MDFARAUCO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveut_6nJCDywABEf1uThMWX2pRRXfQtmw3JTOpmCykQ&s=10"
-    ],
-    "nombre": "MDF ARAUCO 18X2135X2440MM",
-    "otras_medidas": [
-      "MDF ARAUCO 2.5X2135X2440MM",
-      "MDF ARAUCO 3X2135X2440MM",
-      "MDF ARAUCO 4X2135X2440MM",
-      "MDF ARAUCO 5.5X2135X2440MM",
-      "MDF ARAUCO 9X2135X2440MM",
-      "MDF ARAUCO 12X2135X2440MM",
-      "MDF ARAUCO 15X2135X2440MM"
-    ],
-    "subcategoria": "MDF TRIPLAY OSB",
-    "url_pdf": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/FT-TRUPAN.pdf",
-    "url_reel": "https://www.tiktok.com/@woodcenter4/video/7377499640297540870?q=TRUPAN%20ARAUCO&t=1789144994543"
-  },
-  {
-    "id": "NEWLOOK",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWbNe_3TAZw771PQQxdg0pfrNii6lsKbdy6v0C0hCrg&s"
-    ],
-    "nombre": "NEW LOOK AMARILLO Y ROJO",
-    "subcategoria": "ACABADOS",
-    "url_manual": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-NEW%2520LOOK-ROJO.pdf",
-    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-NEW-LOOK-AMARRILLO.pdf",
-    "url_reel": "https://www.tiktok.com/@jyc.melamina/video/7570153895331171592?q=brillol%20para%20melamina&t=1788558494115"
-  },
-  {
-    "id": "PATA721722",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/721.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/721a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/721b.png?raw=true"
-    ],
-    "nombre": "PATA CONICA NIQ CEPILL H80MM - 500.05.721",
-    "otras_medidas": [
-      "PATA CONICA NIQ CEPILL H100MM - 500.05.722"
-    ],
-    "subcategoria": "PATAS",
-    "url_subcategoria": "https://m.media-amazon.com/images/I/81KuUIuMbpL._AC_UF894,1000_QL80_.jpg"
-  },
-  {
-    "id": "PATA724",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/724.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/724a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/724b.png?raw=true"
-    ],
-    "nombre": "PATA ALUMINIO ESTRIADO H100MM - 500.05.724",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA727728",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/727.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/727a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/727b.png?raw=true"
-    ],
-    "nombre": "PATA REG. CROM. 80MMX50MM - 500.05.727",
-    "otras_medidas": [
-      "PATA REG. CROM. 100MMX50MM - 500.05.728"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA729",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/729.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/729a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/729b.png?raw=true"
-    ],
-    "nombre": "PATA REG. AC. CROM. 120-140MM / 50MM - 500.05.729",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA733734",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/733.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/733a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/733b.png?raw=true"
-    ],
-    "nombre": "PATA REG. AC. NIQ. 80-100MM / 50MM - 500.05.733",
-    "otras_medidas": [
-      "PATA REG. AC. NIQ. 100-120MM / 50MM - 500.05.734"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA872873",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/872.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/872a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/872b.png?raw=true"
-    ],
-    "nombre": "PATA REG. AC. NIQ. 80MMX50MM - 500.05.872",
-    "otras_medidas": [
-      "PATA REG. AC. NIQ. 100MMX50MM - 500.05.873"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA876877",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/876.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/876s.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/876b.png?raw=true"
-    ],
-    "nombre": "PATA REG. CROM. 80MM / 50MM - 500.05.876",
-    "otras_medidas": [
-      "PATA REG. CROM. 100MM / 50MM - 500.05.877"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA880881",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/881.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/881a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/881b.png?raw=true"
-    ],
-    "nombre": "PATA CROMADA 80MM (UNI) 500.05.880",
-    "otras_medidas": [
-      "PATA CROMADA 100MM (UNI) 500.05.881"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA884",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/884.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/884a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/884b.png?raw=true"
-    ],
-    "nombre": "PATA OBL. DOBLE EJE CROM. BRILL H80MM - 500.05.884",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA8888889",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/888.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/888a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/888b.png?raw=true"
-    ],
-    "nombre": "PATA CONICA CR. BR. DIAM H80MM - 500.05.888",
-    "otras_medidas": [
-      "PATA CONICA CR. BR. DIAM. H100MM - 500.05.889"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA892",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/892.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/892a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/892b.png?raw=true"
-    ],
-    "nombre": "PATA FIJA ALUM. RANURADA H80MM - 500.05.892",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA911",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/911.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/911a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/911b.png?raw=true"
-    ],
-    "nombre": "PATA REG. CROMADO PUL. 100MM - 500.05.911",
-    "otras_medidas": [
-      "PATA REG. CROMADO PUL. 150MM - 500.05.896",
-      "PATA REG. CROMADO PUL. 200MM - 500.05.897",
-      "PATA REG. CROMADO PUL. 250MM - 500.05.898"
-    ],
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA914",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/914.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/914a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/914b.png?raw=true"
-    ],
-    "nombre": "PATA REG. NEGRO MATE 100MM - 500.05.914",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PATA922",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/922.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/922a.png?raw=true",
-      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/922b.png?raw=true"
-    ],
-    "nombre": "PATA CROMADA 75MM/H=125MM 500.05.922",
-    "subcategoria": "PATAS"
-  },
-  {
-    "id": "PCARAMELO",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://images.squarespace-cdn.com/content/v1/64f9d1c3aa8b24009ae9aea9/1698687470182-V2JABJM5C3TLO8L50BJI/caramelo-textura-pelikano.jpg?format=1500w",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzHjr5OumAowOXLx5Or9QiakXsZPCyWpnpnXmR-7GcrA&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfjlcDo-iVyl-9VW1xHMRayv2cFvmJBIaRvoZvlRGVg&s=10"
-    ],
-    "nombre": "PELIKANO CARAMELO 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@dcos_amoblamientos/video/7655353619352407303?q=pelikano%20caramelo&t=1788992498153",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlfvq_5mMUBIN-z_wD18pNYv7mqKgHyzmqgFbTJnnHQ&s=10"
-  },
-  {
-    "id": "PCEMENTO",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkwvBu9VYgbz_4NEycJXcpu8aPZxdvnKgdteVYFFrtw&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZT5bXHhpgSqPRYWxzLVb9We9YGM8s-PY8tN068Z16pg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlfvq_5mMUBIN-z_wD18pNYv7mqKgHyzmqgFbTJnnHQ&s=10"
-    ],
-    "nombre": "PELIKANO CEMENTO 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@mandimu.gye/video/7099636255440375066?q=pelikano%20cemento&t=1788992742167"
-  },
-  {
-    "id": "PCENIZA",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa6GNTq4CwwY4K1L_tJbIV-xIcYGsSxvj1GJIkePSSAg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OtkxzGQscbXJbdRxziUhIbDmCWRw8gzHHuB5JgPPqg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm2h_o7OqCce6SRl04HbLtMCmAWMynWYhQUKHWYueWsg&s=10"
-    ],
-    "nombre": "PELIKANO RH CENIZA 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@evcabinets/video/7368651610987269382?q=pelikano%20ceniza&t=1789050167787"
-  },
-  {
-    "id": "PDUNA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRP93q-ydZlgn_Pap12QdpiQwmX8gZD8Foh2F2-HMyeA&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNl7nLZdSwaqLfEUqW_Cib_4XqhoIabJA9vJvZY_ijw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgeNL5ekI8hVZAcJECXpt_n-_vS3mK7pA44RxIHj_BKQ&s=10"
-    ],
-    "nombre": "PELIKANO DUNA 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@pelikano.oficial/video/7265829219098283270?q=pelikano%20duna&t=1788992969735"
-  },
-  {
-    "id": "PEMPOTRABLE",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://ledlumi.com.pe/public/frontend/images/producto/0911202218471972.jpg",
-      "https://ledlumi.com.pe/public/frontend/images/producto/0911202218471980.jpg",
-      "https://ledlumi.com.pe/public/frontend/images/producto/091120221847193.jpg"
-    ],
-    "nombre": "PERFIL EMPOTRABLE PARA LUZ LED X 3MT",
-    "subcategoria": "ILUMINACION",
-    "url_reel": "https://www.tiktok.com/@mueble_stereo/video/7473272665025957125?q=perfil%20led%20empotrable&t=1789838328789"
-  },
-  {
-    "id": "PERFORDORCANTO",
-    "categoria": "ferreteria",
-    "complementos": [
-      "BAVELLANADORA"
-    ],
-    "imagenes": [
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/PCANTO1.png?alt=media&token=ea3d5e0b-c657-49fa-a9d0-892466ff063b",
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/PCANTO2.png?alt=media&token=d06ee581-8fcf-463d-906c-6b646224928d",
-      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/PCANTO.png?alt=media&token=1a15966c-5597-43ef-8108-89d0dea11b27"
-    ],
-    "nombre": "PERFORADOR DE CANTO 8MM",
-    "subcategoria": "BROCAS Y TARUGOS",
-    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/PCANTO.png?alt=media&token=1a15966c-5597-43ef-8108-89d0dea11b27",
-    "url_reel": "https://www.tiktok.com/@andybea_melamina/video/7608728898854980884?q=perforador%20de%20canto&t=1788035329174"
-  },
-  {
-    "id": "PESQUINERO",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://ledlumi.com.pe/public/frontend/images/producto/0911202218503547.jpg",
-      "https://ledlumi.com.pe/public/frontend/images/producto/0911202218503598.jpg",
-      "https://ledlumi.com.pe/public/frontend/images/producto/0911202218503593.jpg"
-    ],
-    "nombre": "PERFIL ESQUINERO PARA LUZ LED X 3MT",
-    "subcategoria": "ILUMINACION",
-    "url_reel": "https://www.tiktok.com/@melanovax/video/7344661051201441029?q=perfil%20led%20esquinero&t=1789833542130"
-  },
-  {
-    "id": "PGALES",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOl_Gr2jkUaGfivDapIcCrrLMeei8nJa4jfJYtOhFNfg&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReJzHvbFjEf_xpbQRcypiayeByIW-7M6tgT9szl9srfA&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ8VeqybC8kBAV9dENO-FIBQIj0MJHb9KRGRx4HgDttw&s=10"
-    ],
-    "nombre": "PELIKANO GALES 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@ebano.muebles.arq/video/7597916917982072082?q=pelikano%20gales&t=1788993469095"
-  },
-  {
-    "id": "PINTURASPRAYCYA",
-    "categoria": "ferreteria",
-    "nombre": "PINTURA SPRA NEGRO 400ML C&A",
-    "otras_medidas": [
-      "PINTURA SPRA NARANJA 400ML C&A",
-      "PINTURA SPRA GRIS ANTICORROSIVO 400ML C&A",
-      "PINTURA SPRA BLANCO 400ML KNAUF"
-    ],
-    "subcategoria": "ACABADOS",
-    "url_imagen": "https://cdn.ardiles.pe/productos/xl/pintura-spray-alta-temperatura-negro-brillante-1604-400ml-c-a-1520101200800-4-1.jpg",
-    "url_reel": "https://www.tiktok.com/@ardicorp_peru/video/7556363390411705618?q=PINTURA%20C%26A&t=1788557666578"
-  },
-  {
-    "id": "PL2550",
-    "categoria": "ferreteria",
-    "complementos": [
-      "PL2550RIEL"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100800703_IMG_APLI1.jpg",
-      "https://ducasseindustrial.com/wp-content/uploads/2020/09/CL_10100800703_IMG_PROD1_BL.jpg"
-    ],
-    "nombre": "SISTEMA PL-2550",
-    "pdf_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100800703_INSTRUCTIVO.pdf",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10100800703_IMG_PROD1_BL.jpg",
-    "url_manual": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100800703_INSTRUCTIVO.pdf",
-    "url_pdf": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/wpallimport/files/AR_10100800703_FICHA.pdf",
-    "url_reel": "https://www.tiktok.com/@tecnoserviciosbogota/video/7438778892191583543?q=pl-2550&t=1786225373752"
-  },
-  {
-    "id": "PL2550RIEL",
-    "categoria": "ferreteria",
-    "complementos": [
-      "PL2550"
-    ],
-    "nombre": "RIEL PL-2550 X 3MT",
-    "subcategoria": "SISTEMA CORREDIZO",
-    "url_imagen": "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/09/CL_10100603220_IMG_PROD1_BL.jpg"
-  },
-  {
-    "id": "PL285",
-    "categoria": "ferreteria",
-    "nombre": "PEGAMENTO PL-285 (GL)",
-    "otras_medidas": [
-      "PEGAMENTO PL-285 (500ML)",
-      "PEGAMENTO PL-285 (250ML)",
-      "PEGAMENTO PL-285 (130ML)"
-    ],
-    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKprAzUPNMC-gZTrilu1sx73ZRnP8wkaIfBmN6BGcOA&s=10",
-    "url_reel": "https://www.instagram.com/reel/Czec9K8JCXc/?hl=en"
-  },
-  {
-    "id": "POLIVO",
-    "categoria": "melamina",
-    "disponibleRH": true,
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ND951elNuJr_dCKTpQrg2M8yFFzirP__-iENSKQLhw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTplu9eaAhM6AXWz_RDzHySPJwra_yp7xe-_2phSv8IFQ&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiPS-CFtjQDKDScAre66Ro7XMJIwoXYYF-DRFPLQXe-w&s=10"
-    ],
-    "nombre": "PELIKANO RH OLIVO 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@meladecorperu/video/7321129882564496645?q=pelikano%20olivo&t=1789051759483"
-  },
-  {
-    "id": "PONIX",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-KMSDtVjY4ZYdaN_SI_lTiX-nQCo8UEBjn8VQO3D19Q&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSayVgnhzdxwU-B7aVFNNKBdsexmx5LPpTJOCksz3509g&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWndtwIRFHve4HD7AW0fdaAroLMwqVWool747q-nN7Lg&s=10"
-    ],
-    "nombre": "PELIKANO ONIX 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@pedro_hym/video/7590050333871721735?q=pelikano%20onix&t=1788993705999"
-  },
-  {
-    "id": "PORTACOPA1",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBosvhwj1G0nBWpB0GM41fPsIzABC-aXl8V7vYj83Gg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEXjd0BUybOIve-cDvybYPURykuGMjnxex--a2itzhAw&s",
-      "https://carpintec.com.pe/cdn/shop/files/porta_copas_colgante_simple_cromado_-_2.jpg?v=1697063248&width=800"
-    ],
-    "nombre": "PORTA COPAS X 1",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_pdf": "https://www.mediafire.com/file/okhyo12yws36r0j/PORTA+COPAS+PDF.pdf/file",
-    "url_reel": "https://www.tiktok.com/@edimca_ec/video/7593727333203184908"
-  },
-  {
-    "id": "PORTACOPA2",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://carpintec.com.pe/cdn/shop/files/porta_copas_colgante_doble_cromado_-_1.jpg?v=1697063279&width=800",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUCHdJ65t54J7XGCY-V-e1_MuPwGKTg9JOXMAk68Clzw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKleoGBNQI_h-HU9XaTcdJovLGThmeNkfPyTeRIl72-Q&s=10"
-    ],
-    "nombre": "PORTA COPA X 2",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_pdf": "https://www.mediafire.com/file/okhyo12yws36r0j/PORTA+COPAS+PDF.pdf/file",
-    "url_reel": "https://www.tiktok.com/@edimca_ec/video/7593727333203184908",
-    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI0sMuxlTO4HXdo-yoM6GeZaoHcDTSqUj3N4mtIMLzXQ&s=10"
-  },
-  {
-    "id": "PORTACOPA3",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCl1UCgLzGPvMHQgeGk2H2Y4WWR5GN2ozQPGponvInVQ&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2XhAa7MiaeZ-VP15aBxC3_o7fK0mTWZRTcqb4cPVDw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3KwHmJ0YKuZ2aXB8dnsT14mY1hOeRkoqO1IlGxaZKUA&s"
-    ],
-    "nombre": "PORTA COPA X 3",
-    "subcategoria": "ACCESORIOS DE COCINA",
-    "url_pdf": "https://www.mediafire.com/file/okhyo12yws36r0j/PORTA+COPAS+PDF.pdf/file",
-    "url_reel": "https://www.tiktok.com/@edimca_ec/video/7593727333203184908"
-  },
-  {
-    "id": "PPANELA",
-    "categoria": "melamina",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSulHI0V1O15jz_jpK2vyM2CkuPKKeMbGbQWa375fKcyQ&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSoMqStewzgLPbTkHXlKMawkLoO6OrBsUcQadwm94c1w&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNa-DWODuY8s65K7e-2A1qWji9FGZSECOWKE_SJoY32Q&s"
-    ],
-    "nombre": "PELIKANO PANELA 18X2150X2440MM",
-    "subcategoria": "PELIKANO",
-    "url_reel": "https://www.tiktok.com/@pelikano.oficial/video/7514077951428807941?q=pelikano%20panela&t=1788994379823"
-  },
-  {
-    "id": "PRBISAGRAS",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ17CqhZ5gTRzev7nEB2-5GXGGxfPLNBKvRcIfnSYnHPw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEErLGN_vJPNX8uuLxy8DtajYVXCLkrvPW8C-5_-alDw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwEZBGmyKtltyVo6lsXHhCREQhWNKcNeKwc7vEtNQxvw&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ61XmuetogVLdNWc__znz4misZLgtXJt-4JrsI_xp-Qg&s=10",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIcLKoGAg4kHPJfU2QgFCNrRz1Tfj41wkAUVoyaXoZZg&s=10"
-    ],
-    "nombre": "PLACA DE REPARACION DE PUERTA INOX 90X90MM",
-    "subcategoria": "BISAGRAS",
-    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSftLCFUv59c3uICKIGPdUu8sZ3tULle-PWnKE9HcyH8A&s=10",
-    "url_reel": "https://www.tiktok.com/@clymjhogj1/video/7587735281697049877?q=plantilla%20%20de%20bisagras&t=1787685272028"
-  },
-  {
-    "id": "PRDOBLE",
-    "categoria": "ferreteria",
-    "complementos": [
-      "SGDOBLE"
-    ],
-    "imagenes": [
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/08/CL_10101300401_img_apli2.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/08/CL_10101300401_img_apli1.jpg",
-      "https://ducasseindustrial.com/cl/wp-content/uploads/sites/25/2020/08/CL_10101300401_img_prod2_bl.jpg"
-    ],
-    "nombre": "PILAR RANURADO DOBLE",
-    "url_imagen": "https://ducasseindustrial.com/wp-content/uploads/2020/08/CL_10101300401_img_prod1_bl.jpg",
-    "url_pdf": "https://ducasseindustrial.com/wp-content/uploads/wpallimport/files/CL_3420164_FICHA.pdf",
-    "url_reel": "https://www.youtube.com/shorts/vsNZcNlHHRI"
-  },
-  {
-    "id": "PRENSAC3",
-    "categoria": "ferreteria",
-    "imagenes": [
-      "https://www.truper.com/media/import/imagenes/PNT-3+FC1.jpg",
-      "https://www.truper.com/media/import/imagenes/PNT-3.jpg"
-    ],
-  
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjLCqltLvJjROocB8nDGLO2_E-aiSqu7OF93AO9X4KUg&s=10",
+    "url_manual": "",
+    "url_pdf": "",
+    "url_reel": "",
+    "url_subcategoria": ""
+  }
+]
