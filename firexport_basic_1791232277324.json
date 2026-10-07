@@ -3349,7 +3349,6 @@
     ],
     "nombre": "TORNILLO 3.5X25 ASTER",
     "subcategoria": "TORNILLOS",
-    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/3.5X25.png?alt=media&token=51bd20e5-0bed-4127-9956-83746b69c3b1"
   },
   {
     "Document ID": "TA35X30",
@@ -3390,7 +3389,7 @@
     ],
     "nombre": "TORNILLO ASTER 3.5X45",
     "subcategoria": "TORNILLOS",
-    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/35x45.png?alt=media&token=5d552c87-6a32-4d0c-9616-f1370d615eb8"
+    
   },
   {
     "Document ID": "TA35X50",
