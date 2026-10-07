@@ -3222,5 +3222,1116 @@
     "url_pdf": "https://ducasseindustrial.com/wp-content/uploads/wpallimport/files/CL_3424224_FICHA.pdf",
     "url_reel": "https://www.youtube.com/watch?v=HAz85ahAVsI"
   },
-  ]
+  {
+    "Document ID": "SMONDRIAN",
+    "categoria": "ferreteria",
+    "nombre": "SOPORTE MONDRIAN 20 Y 25 CM",
+    "url_imagen": "https://ducasseindustrial.com/wp-content/uploads/2020/08/CL_10101240240_img_prod1_bl.jpg",
+    "url_pdf": "https://ducasseindustrial.com/wp-content/uploads/wpallimport/files/CL_3424225_FICHA.pdf"
+  },
+  {
+    "Document ID": "SOLDIMIX10M",
+    "categoria": "ferreteria",
+    "nombre": "PEGAMENTO SOLDIMIX 10 MINUTOS",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://soldimix.pe/wp-content/uploads/2024/06/Soldimix-clasico-10-min-empaque.webp",
+    "url_pdf": "https://drive.google.com/file/d/1iZLLiyRTU0X9m46ifMS14TZ_WO27svwS/view",
+    "url_reel": "https://www.tiktok.com/@soldimixpe/video/7564138834133372180?q=soldimix%2010%20minutos&t=1788644106909"
+  },
+  {
+    "Document ID": "SOPFIJO",
+    "categoria": "ferreteria",
+    "nombre": "SOPORTE FIJO",
+    "url_imagen": "https://ducasseindustrial.com/ar/wp-content/uploads/sites/17/2020/09/AR_10101225601_img_prod2_bl.jpg",
+    "url_pdf": "https://ducasseindustrial.com/mx/wp-content/uploads/sites/21/wpallimport/files/MX_3424214_FICHA.pdf"
+  },
+  {
+    "Document ID": "SRFLOTANTE",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BROCAMETAL38"
+    ],
+    "imagenes": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBRtg7UEfuAUse6HG15zJnrMNq_Hm9I9s6_Buiy4d05A&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs9-wV7f7se-dQEPG5WJ2e78Nd3E1S_ezT7quVaJRWiA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCehmctPQjb4yvmmmLxCWvKqgSPOrwxB8-Hh_Qy-ggg&s=10"
+    ],
+    "nombre": "SOPORTE P/REPISA FLOTANTE 108X76MM",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs9-wV7f7se-dQEPG5WJ2e78Nd3E1S_ezT7quVaJRWiA&s",
+    "url_reel": "https://www.tiktok.com/@mueblesjesh/video/7467554182912888069?q=soporte%20flotante&t=1788205898714"
+  },
+  {
+    "Document ID": "SRTRANSPARENTE",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BROCAMADERA316",
+      "BROCAMETAL316"
+    ],
+    "imagenes": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2leEWA2WueVeDMqjr1XesI16-N4DNZpXSOdZQ-pawfQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRBzG-AmnrXgx6U3USf2hYs_6C1xKBzQX6cZ9_RQ6Fg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7BjGTmCxHn13VAyDgisH4SxHsYSLZzJF8Xt3TVbEVg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyeBUiS0WrEBfPHrSJuuEo8QsfmQ53Y48sC7gJcr_uw&s=10"
+    ],
+    "nombre": "SOPORTE DE REPISA TRANSPARENTE 5MM",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdCUCv16TwSHQ6vsMBAHZcf1WRNVopmNXwkz8WxMO7hQ&s",
+    "url_reel": "https://www.tiktok.com/@elcarpientero/video/7332512237359238406?q=soporte%20repisa%20transparente&t=1788205376691"
+  },
+  {
+    "Document ID": "SS100T12",
+    "imagenes": [
+      "https://ballewsaw.com/media/catalog/product/cache/a0b694e1fa39e909d1654760c8e54e0a/s/s/ss100t12.jpg"
+    ],
+    "nombre": "DISCO INCISOR AJUSTABLE 100 X 3.6 X 20 X Z12 SS100T12/AMANA",
+    "subcategoria": "AMANA",
+    "url_pdf": "https://timberlinetools.com/PhotoDetails.php?ShowDesc=N&PhotoURL=http%3A//images.timberlinetools.com/Amana-Catalog-page181.jpg"
+  },
+  {
+    "Document ID": "STERNPE",
+    "categoria": "ferreteria",
+    "nombre": "STERN PEGAMENTO EXPRESS",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://media.falabella.com/falabellaPE/150379470_01/w=1200,h=1200,fit=pad",
+    "url_reel": "https://www.tiktok.com/@sternperu/video/7655083257477860629?q=stern%20pegamento%20express&t=1786643414629"
+  },
+  {
+    "Document ID": "STOVOL",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BROCAMETAL532",
+      "BROCAMETAL316",
+      "BROCAMADERA316"
+    ],
+    "nombre": "STOVOL 1\" - 25MM",
+    "otras_medidas": [
+      "STOVOL 3/4\" - 20MM",
+      "STOVOL 1 1/2\" - 40MM",
+      "STOVOL 2\" - 50MM"
+    ],
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://arcosac.com/wp-content/uploads/2024/01/FERTOR007001-STOVOL-ZINC-4X45MM-2.png"
+  },
+  {
+    "Document ID": "SWITCHINTERRUPTOR",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/switch.png?raw=true"
+    ],
+    "nombre": "SWITCH INTERRUPTOR BLANCO/NEGRO",
+    "subcategoria": "ILUMINACION"
+  },
+  {
+    "Document ID": "TA35X15",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x15.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x15a.png?raw=true"
+    ],
+    "nombre": "TORNILLO 3.5X15",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA35X20",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x20.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x20a.png?raw=true"
+    ],
+    "nombre": "TORNILLO ASTER 3.5X20",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA35X25",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x25.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x25a.png?raw=true"
+    ],
+    "nombre": "TORNILLO 3.5X25 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/3.5X25.png?alt=media&token=51bd20e5-0bed-4127-9956-83746b69c3b1"
+  },
+  {
+    "Document ID": "TA35X30",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x30.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x30a.png?raw=true"
+    ],
+    "nombre": "TORNILLO 3.5X30 DOCATTI",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA35X35",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x35.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x35a.png?raw=true"
+    ],
+    "nombre": "TORNILLO ASTER 3.5X35",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA35X40",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x40.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x40a.png?raw=true"
+    ],
+    "nombre": "TORNILLO 3.5X40 DOCATTI",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA35X45",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x45.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/35x45a.png?raw=true"
+    ],
+    "nombre": "TORNILLO ASTER 3.5X45",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/35x45.png?alt=media&token=5d552c87-6a32-4d0c-9616-f1370d615eb8"
+  },
+  {
+    "Document ID": "TA35X50",
+    "categoria": "ferreteria",
+    "imagenes": [
+      ""
+    ],
+    "nombre": "TORNILLO 3.5X50 DOCATTI",
+    "subcategoria": "TORNILLOS"
+  },
+  {
+    "Document ID": "TA4X20",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4.0X20 DOCATTI",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X20.png?alt=media&token=3ac49938-e655-4302-960e-444f5661dbed"
+  },
+  {
+    "Document ID": "TA4X25",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO ASTER 4.0X25",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4x25.png?alt=media&token=bf29084b-b53a-4d2c-8f4f-3938ab003678"
+  },
+  {
+    "Document ID": "TA4X30",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4.0X30 DOCATTI",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X30.png?alt=media&token=fcb0c35f-590f-4fbe-bf2d-8638c430f546"
+  },
+  {
+    "Document ID": "TA4X35",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO ASTER 4.0X35",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4x35.png?alt=media&token=689bbc10-a6d1-4b24-83ca-58be8f7f708e"
+  },
+  {
+    "Document ID": "TA4X40",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BROCAMADERA",
+      "BROCAMETAL18",
+      "BROCAMETAL764"
+    ],
+    "nombre": "TORNILLO ASTER 4.0X40",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarD8W7aF6WgaMT9s9EfR1FrSrlm6UYDBQaSXb72ZRYA&s"
+  },
+  {
+    "Document ID": "TA4X45",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4.0X45 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X45.png?alt=media&token=e9bf9c89-1901-42c1-8f23-8eb3f1a57b10"
+  },
+  {
+    "Document ID": "TA4X50",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4X50 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X60.png?alt=media&token=fddfb30d-a594-4790-adac-04ebf8e1cc2b",
+    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfhAkF9tyt_amzKlTLbno4B-DxyjbZyLV88f6ad1ABxA&s=10"
+  },
+  {
+    "Document ID": "TA4X60",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4.0X60 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X60.png?alt=media&token=fddfb30d-a594-4790-adac-04ebf8e1cc2b"
+  },
+  {
+    "Document ID": "TA5X40",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 5.0X40 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/5X40.png?alt=media&token=d8727151-2b83-4ac9-8b1e-8434c72de261"
+  },
+  {
+    "Document ID": "TA5X50",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 5.0X50 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/5X50.png?alt=media&token=4af43aaf-0022-40a2-bcbd-e72b640aa9a9"
+  },
+  {
+    "Document ID": "TA5X60",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 5.0X60 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/5X60.png?alt=media&token=a5e20ad1-ee29-4073-87cd-22ee3c9e9c7c"
+  },
+  {
+    "Document ID": "TA5X70",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 5.0X70 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/5X70.png?alt=media&token=0310e254-cf07-4a93-9a63-aa4e7ebb418f"
+  },
+  {
+    "Document ID": "TA5X80",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 5.0X80 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/5X80.png?alt=media&token=d5c2d6b6-29b1-4ac1-919d-e34d647cc288"
+  },
+  {
+    "Document ID": "TA6X100",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X100 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X100.png?alt=media&token=47a7510d-d430-4b83-b926-21d6c6fd58c0"
+  },
+  {
+    "Document ID": "TA6X50",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X50 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X50.png?alt=media&token=fd3eb5b7-ba5a-494b-85de-154200bf9a1b"
+  },
+  {
+    "Document ID": "TA6X60",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X60 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X60.png?alt=media&token=05fd5892-0383-4589-8937-dda5a988a021"
+  },
+  {
+    "Document ID": "TA6X70",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X70 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X70.png?alt=media&token=43a8d6e8-f2fd-4b6b-905f-5e205101124f"
+  },
+  {
+    "Document ID": "TA6X80",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X80 ASTER",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X80.png?alt=media&token=5f36d577-c36e-4337-92b9-63c8e7d9327b"
+  },
+  {
+    "Document ID": "TA6X90",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 6.0X90",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/6X90.png?alt=media&token=f30bd56c-dec2-4e53-bf26-865516d8efcb"
+  },
+  {
+    "Document ID": "TCAJITA",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/tcaja.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/tcajaa.png?raw=true"
+    ],
+    "nombre": "TRANSFORMADOR CAJITA 5A",
+    "subcategoria": "ILUMINACION"
+  },
+  {
+    "Document ID": "TD4X50",
+    "categoria": "ferreteria",
+    "nombre": "TORNILLO 4.0X50 DOCATTI",
+    "subcategoria": "TORNILLOS",
+    "url_imagen": "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/4X60.png?alt=media&token=fddfb30d-a594-4790-adac-04ebf8e1cc2b"
+  },
+  {
+    "Document ID": "TEKNOCOLACLASICA",
+    "categoria": "ferreteria",
+    "nombre": "TEKNOCOLA CLASICA TEKNO (GL)",
+    "otras_medidas": [
+      "TEKNOCOLA CLASICA TEKNO (KG)"
+    ],
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://www.google.com/imgres?q=teknocola%20clasica&imgurl=https%3A%2F%2Flookaside.instagram.com%2Fseo%2Fgoogle_widget%2Fcrawler%2F%3Fmedia_id%3D3697135317108087275&imgrefurl=https%3A%2F%2Fwww.instagram.com%2Fp%2FDNTOBphxwnS%2F&docid=3V6qS4xeKrvQ8M&tbnid=gJI0lF1Ak3F7NM&vet=12ahUKEwiOgIHZ3ZuXAxV0HLkGHXv8BZIQnPAOegUIzQUQAA..i&w=1440&h=1800&hcb=2&ved=2ahUKEwiOgIHZ3ZuXAxV0HLkGHXv8BZIQnPAOegUIzQUQAA",
+    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-TEKNOCOLA-CLASICA.pdf",
+    "url_reel": "https://www.tiktok.com/@aprendeconsafra/video/7239500175935425798"
+  },
+  {
+    "Document ID": "TEKNOCOLAEXTRA",
+    "categoria": "ferreteria",
+    "nombre": "TEKNOCOLA EXTRA (GL)",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://www.google.com/imgres?q=teknocola%20extra&imgurl=https%3A%2F%2Fcarpintec.com.pe%2Fcdn%2Fshop%2Ffiles%2FCola_extra_Tekno_1024x1024.jpg%3Fv%3D1742223288&imgrefurl=https%3A%2F%2Fcarpintec.com.pe%2Fproducts%2Fcola-extra-tekno&docid=wCPNgFLYbzwxRM&tbnid=ZqH0OFS7nZhauM&vet=12ahUKEwjo5czS35uXAxUfR7gEHci0AAUQnPAOegQISBAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjo5czS35uXAxUfR7gEHci0AAUQnPAOegQISBAA",
+    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-TEKNOCOLA-EXTRA.pdf",
+    "url_reel": "https://www.tiktok.com/@carpinorte/video/7675429016362454293?q=teknocola%20extra&t=1788536011080"
+  },
+  {
+    "Document ID": "TEKNOCOLAULTRA",
+    "categoria": "ferreteria",
+    "nombre": "TEKNOCOLA ULTRA (GL)",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF7ATLWj9z2euzGPeEcqKKYEUqEYMyoiRkXkMlVjwebQ&s=10",
+    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-TEKNOCOLA-ULTRA.pdf",
+    "url_reel": "https://www.tiktok.com/@carpinorte/video/7675429016362454293?q=teknocola%20extra&t=1788536011080"
+  },
+  {
+    "Document ID": "TEROCHAP",
+    "categoria": "ferreteria",
+    "nombre": "TEROCHAP (GL)",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5se2IHqVPuezJbzkAMGy1WmpEQwVRmHpgUoLrCwBdLs7DyolAZEUh0MR7&s=10",
+    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-TEROCHAP.pdf",
+    "url_reel": "https://www.instagram.com/reels/DN6pbnO2lI2/"
+  },
+  {
+    "Document ID": "TEROKALROYAL",
+    "categoria": "ferreteria",
+    "nombre": "TEROKAL ROYAL 1LT",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ordv12Ofuxo7MwAztJtxdaMpJ6wRCewnOyS1x-TAJA&s=10",
+    "url_pdf": "https://www.tekno.com.pe/sites/default/files/product/sheets/HT-TEROKAL-ROYAL.pdf"
+  },
+  {
+    "Document ID": "TFENOLICO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/APLY_MUEB_CH_COL_PE_MX_EU-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/15952_maderistica_005.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/maderistica-carpinteria-de-autor-en-tableros-de-terciado_458133918_8.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Triplay_15_mm_Librero_2_A.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Triplay_18_mm_Banca_B.jpg"
+    ],
+    "nombre": "TRIPLAY PINO FENOLICO BC 1220X2440MM",
+    "otras_medidas": [
+      "TRIPLAY PINO FENOLICO BC 9X1220X2440MM",
+      "TRIPLAY PINO FENOLICO BC 12X1220X2440MM",
+      "TRIPLAY PINO FENOLICO BC 15X1220X2440MM"
+    ],
+    "subcategoria": "MDF TRIPLAY OSB",
+    "url_pdf": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/12/F.T._ARAUCOPLY_MUEBLERIA_26-09-2019.pdf",
+    "url_reel": "https://www.tiktok.com/@tiendadeltriplex/video/7124461301899758853?q=triplay%20fenolico&t=1789166041114"
+  },
+  {
+    "Document ID": "TL10A",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/10a.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/10aa.png?raw=true"
+    ],
+    "nombre": "TRANSFORMADOR TIPO LAPIZ 10A",
+    "subcategoria": "ILUMINACION",
+    "url_reel": "https://www.tiktok.com/@melanovax/video/7347040705484770565?q=transformador%20tipo%20lapiz&t=1790107775482"
+  },
+  {
+    "Document ID": "TL3A",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/3a.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/3aa.png?raw=true"
+    ],
+    "nombre": "TRANSFORMADOR TIPO LAPIZ 3A ",
+    "subcategoria": "ILUMINACION",
+    "url_reel": "https://www.tiktok.com/@melanovax/video/7347040705484770565?q=transformador%20tipo%20lapiz&t=1790107775482"
+  },
+  {
+    "Document ID": "TL5A",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/5a.png?raw=true",
+      "https://github.com/jairo0321/tasmisa_imagenes/blob/main/5aa.png?raw=true"
+    ],
+    "nombre": "TRANSFORMADOR TIPO LAPIZ 5A",
+    "subcategoria": "ILUMINACION",
+    "url_reel": "https://www.tiktok.com/@melanovax/video/7347040705484770565?q=transformador%20tipo%20lapiz&t=1790107775482"
+  },
+  {
+    "Document ID": "TMADERA12",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BCONCRETO12"
+    ],
+    "nombre": "TARUGO MADERA 1/2\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7cmOl5wMZMzYNd2VX99Bb6LIPKw0NndN8dD04tAAJw&s=10"
+  },
+  {
+    "Document ID": "TMADERA14",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BCONCRETO14"
+    ],
+    "nombre": "TARUGO MADERA 1/4\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://media.falabella.com/sodimacPE/11572X_01/w=1500,h=1500,fit=cover"
+  },
+  {
+    "Document ID": "TMADERA38",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BCONCRETO38"
+    ],
+    "nombre": "TARUGO MADERA 3/8\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://dojiw2m9tvv09.cloudfront.net/105613/product/captura-129604.JPG"
+  },
+  {
+    "Document ID": "TMADERA516",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BCONCRETO516"
+    ],
+    "nombre": "TARUGO MADERA 5/16\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgMXkkt8wdFXM-ZExW-IFkCjwEpaexuLHOeP_QJMtDGA&s",
+    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd58T5jxwEiwS5tUYZ-uAzeiCVX7krls_bobJhbZwMyA&s=10"
+  },
+  {
+    "Document ID": "TPAZUL",
+    "categoria": "ferreteria",
+    "complementos": "BCONCRETO516",
+    "nombre": "TARUGO PLASTICO AZUL 5/16\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1nc5rbwalCHVF1f6KamibsnrMiAhJoRvXwGyZHrFSIP-QheQpu2Qh7xc&s=10"
+  },
+  {
+    "Document ID": "TPNARANJA",
+    "categoria": "ferreteria",
+    "complementos": "BCONCRETO38",
+    "nombre": "TARUGO PLASTICO NARANJA 3/8\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://dojiw2m9tvv09.cloudfront.net/105613/product/captura3436.JPG"
+  },
+  {
+    "Document ID": "TPVERDE",
+    "categoria": "ferreteria",
+    "complementos": [
+      "BCONCRETO14"
+    ],
+    "nombre": "TARUGO PLASTICO VERDE 1/4\"",
+    "subcategoria": "BROCAS Y TARUGOS",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3oXk_-L4PWFjr9F7frgZn6ptaxiyTSoUd5yJv0y-kw&s=10"
+  },
+  {
+    "Document ID": "TRIPLAYWHITE",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://s.alicdn.com/@sc04/kf/H1429e4b121f44a70b86873bdad7e77dci.jpg"
+    ],
+    "nombre": "TRIPLAY WHITE B/C 6X1220X2440MM",
+    "otras_medidas": [
+      "TRIPLAY WHITE B/C 4X1220X2440MM",
+      "TRIPLAY WHITE B/C 8X1220X2440MM"
+    ],
+    "subcategoria": "MDF TRIPLAY OSB"
+  },
+  {
+    "Document ID": "TRIZ",
+    "categoria": "ferreteria",
+    "nombre": "TRIZ",
+    "subcategoria": "PEGAMENTOS Y ADHESIVOS",
+    "url_imagen": "https://triz.pe/wp-content/themes/triz/assets/images/triz-pack.webp",
+    "url_pdf": "https://drive.google.com/file/d/1No24N1TAc7JEgLL25FePJ68fK6HVx-FN/view",
+    "url_reel": "https://www.tiktok.com/@trizperu/video/7643922461184118033?q=triz&t=1788646614287"
+  },
+  {
+    "Document ID": "VALMENDRA",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/origenAndinoyAlmendra-1.jpg",
+      "https://media.falabella.com/sodimacPE/2072831_2/w=1500,h=1500,fit=cover"
+    ],
+    "nombre": "VESTO ALMENDRA 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/180-ALMENDRA-2.jpg",
+    "url_reel": "https://www.tiktok.com/@mueblesdemelaminadh/video/7564284372426231061?q=melamina%20almendra&t=1787161348866",
+    "url_subcategoria": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRroIyW1r9p4Qkv-Y-97ctWQDL9mX4q3nxnTcz591P56w&s=10"
+  },
+  {
+    "Document ID": "VANTALYA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/AR3FE3701F8-1024x768-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/AR94B6CF661-1024x658-1.jpeg"
+    ],
+    "nombre": "VESTO ANTALYA SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/01_4962_MUESTRA_70x70_154_ANTALYA_1200x1200px_300Dpi_16Nov_21-1024x1024-1.jpeg",
+    "url_reel": "https://www.tiktok.com/@arquitecto_gomervega/video/7341769013229309190?q=melamina%20antalya&t=1786654661999"
+  },
+  {
+    "Document ID": "VARCILLA",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Arcilla-1-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Arcilla-3.jpg"
+    ],
+    "nombre": "VESTO ARCILLA SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Arcilla-2-scaled.jpg",
+    "url_reel": "https://www.instagram.com/reel/DO63KvZjZHf/?igsh=azA3MjN2cW5xa3Zo"
+  },
+  {
+    "Document ID": "VASERRADONORDICO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/acerrado-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cocina-legno-aserradonordico-min-1.jpg"
+    ],
+    "nombre": "VESTO ASERRADO NORDICO 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/aserrado-n%C3%B3rdica-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@andybea_melamina/video/7016538876151991557?q=aserrado%20nordico&t=1786741202680"
+  },
+  {
+    "Document ID": "VAWOURA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/awoura-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Espresso-awoura-taupe-min-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Caramel-awoura-min-1.jpg"
+    ],
+    "nombre": "VESTO AWOURA 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/chile/wp-content/uploads/sites/14/2023/11/AWOURA-VESTO_5-1024x683.jpg",
+    "url_reel": "https://www.instagram.com/reel/DUYWQs0knjw/"
+  },
+  {
+    "Document ID": "VAZULLAGO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://promart.vteximg.com.br/arquivos/ids/9223995-1000-1000/62802.jpg?v=638913506833000000",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/azul-aplicacion-01-1.jpg"
+    ],
+    "nombre": "VESTO AZUL LAGO 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/argentina/wp-content/uploads/sites/15/2018/01/faplac-azul-lago-producto-1-1024x728.jpg",
+    "url_reel": "https://www.tiktok.com/@gondolasnuova/video/7572957947186253057?q=melamina%20azul%20lago&t=1787160183282"
+  },
+  {
+    "Document ID": "VAZULMARINO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/Tuareg-aplicacio%CC%81n-scaled-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2024/07/Portada.jpg"
+    ],
+    "nombre": "VESTO AZUL MARINO 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi244EmmqqYNyXjgpj2xESTjd2k9nulrv4NyNeWyAqLauKUdcFebN4-FoQ&s=10",
+    "url_reel": "https://www.tiktok.com/@saniartacabados/video/7538927823877197063?q=melamina%20azul%20marino&t=1786983564391"
+  },
+  {
+    "Document ID": "VBLANCO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "nombre": "VESTO BLANCO 18X2150X2440MM",
+    "otras_medidas": [
+      "BLANCO SUPERMATE 18X1830X2500MM"
+    ],
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/135-BLANCO-1-1.jpg",
+    "url_reel": "https://www.tiktok.com/@delta.decor/video/7537858968551476536?q=melamina%20blanco%20vesto&t=1786988584069"
+  },
+  {
+    "Document ID": "VCARAMEL",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/caramel-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Caramel-awoura-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Alaska-Caramel-Roble-Rustico-min.jpg"
+    ],
+    "nombre": "VESTO CARAMEL 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/caramel-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@andybea_melamina/video/7029155990981315845?q=melamina%20vesto%20caramel&t=1786721368157"
+  },
+  {
+    "Document ID": "VCARBON",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/AR0E09BA760-1024x932-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/04_4962_MUESTRA_15mm_107_CARBON_1200x1200px_300Dpi_MODIF_06Dic_21-1.jpg"
+    ],
+    "nombre": "VESTO CARBON SUPERMATE 18X1830X2500",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/01_4962_MUESTRA_70x70_107_CARBON_1200x1200px_300Dpi_MODIF_06Dic_21-1.jpg",
+    "url_reel": "https://www.tiktok.com/@muebles_euca/video/7495924132085910789?q=melamina%20carbon%20vesto&t=1786986916461"
+  },
+  {
+    "Document ID": "VCEDRONATURAL",
+    "categoria": "melamina",
+    "nombre": "VESTO CEDRO NATURAL 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/CEDRO-web-arauco.jpg"
+  },
+  {
+    "Document ID": "VCENDRAESCANDINAVO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cendra-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Cendra-Escandinavo-SKU_03-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Cendra-Escandinavo-SKU_04-min.jpg"
+    ],
+    "nombre": "VESTO CENDRA ESCANDINAVO 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cendra-escandinava-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@carlosdiazjunior3/video/7316400998770330885?q=melamina%20cendra%20escandinavo&t=1786726674235"
+  },
+  {
+    "Document ID": "VCEREZO NATURAL",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnnO9U4l-r69Lcs1ZK_yoFR7RQhCkPAtWAXUZeWiQ-Q&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTCgaemFvASdEwL1pDHrhhBg1tlfIzevSdHmNPh8oJQ&s=10",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cerezo-natural-aplicaci%C3%B3n-01-1.jpg"
+    ],
+    "nombre": "VESTO CEREZO NATURAL 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cerezo-natural-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@danaesestudio/video/7603953477903191316?q=MELAMINA%20CEREZO%20NATURAL&t=1786981271065"
+  },
+  {
+    "Document ID": "VCOCOA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/ARB1E6F627D-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/AR2279EA455-922x1024-1.jpeg"
+    ],
+    "nombre": "VESTO COCOA 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/01_4962_MUESTRA_70x70_092_SAFFRON_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.tiktok.com/@ebanocarpinteria/video/7504362639305248055?q=melamina%20cocoa&t=1786653456831"
+  },
+  {
+    "Document ID": "VCORTEZA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Corteza-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Corteza-2-scaled.jpg"
+    ],
+    "nombre": "VESTO CORTEZA 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Corteza-scaled.jpg",
+    "url_reel": "https://www.instagram.com/reel/DPOusCgiYVX/?igsh=eTJwNGswYjE5MGhu"
+  },
+  {
+    "Document ID": "VENEBRO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Enebro-1-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Enebro-3.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Enebro-4.jpg"
+    ],
+    "nombre": "VESTO ENEBRO SUPERMATE 18X1830X2500",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2025/07/Enebro-2-scaled.jpg",
+    "url_reel": "https://www.instagram.com/reel/DOoyPuODS1V/?igsh=d296dDQyc2czamJn"
+  },
+  {
+    "Document ID": "VESPRESSO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/12/2017_Kitchen_Arauco_Espresso-31.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/12/COL_PE-ESPRESSO-JEREZ.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/ESPRESSO-SEDA-GIORNO.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/IMG_3744.jpg"
+    ],
+    "nombre": "VESTO ESPRESSO MATE 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/12/Espresso.jpg",
+    "url_reel": "https://www.tiktok.com/@gallego5547/video/7304049907470552326?q=melamina%20espresso&t=1786720677861"
+  },
+  {
+    "Document ID": "VFRESNOEUROPEO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Fresno-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/fresno-europeo-01-1.jpg"
+    ],
+    "nombre": "VESTO FRESNO EUROPEO 18X2140X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/fresno-europeo-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@andybea_melamina/video/6994815669778926854"
+  },
+  {
+    "Document ID": "VHAYA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/HAYA-APLICACION-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/HAYA-01-1.jpg"
+    ],
+    "nombre": "VESTO HAYA SOFT 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/HAYA-01-1.jpg"
+  },
+  {
+    "Document ID": "VHUMO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/AR42B7AC45E-1-1024x683-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/ARE6FF5EFB9-1-1024x753-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/04_4962_MUESTRA_15mm_108_HUMO__VELVET_1200x1200px_300Dpi_16Nov_21.jpg"
+    ],
+    "nombre": "VESTO HUMO SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/01_4962_MUESTRA_70x70_108_HUMO__VELVET_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.instagram.com/reel/DaDhBR9tYjT/"
+  },
+  {
+    "Document ID": "VJEREZ",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/IMG_3745-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/COL_PE-ESPRESSO-JEREZ.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/IMG_3743-1.jpg"
+    ],
+    "nombre": "VESTO JEREZ MATE 18X2150X2440mm",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Jerez.jpg",
+    "url_reel": "https://www.tiktok.com/@adisenart1/video/7407987272588528902?q=melamina%20jerez&t=1786720028366"
+  },
+  {
+    "Document ID": "VLINOCHIARO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Lino-Chiaro_detail.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/IMG_3742-1.jpg"
+    ],
+    "nombre": "VESTO LINO CHIARO HILADO 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Lino-Chiaro.jpg",
+    "url_reel": "https://www.tiktok.com/@seba.muoz01/video/7505625014742371639?q=melamina%20lino%20chiaro&t=1786661533813"
+  },
+  {
+    "Document ID": "VMARAS",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/04_4962_MUESTRA_15mm_173_HIMALAYA_1200x1200px_300Dpi_16Nov_21.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/ARA4991A1E4-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/AR8F41C9499-scaled.jpg"
+    ],
+    "nombre": "VESTO MARAS SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/01_4962_MUESTRA_70x70_173_HIMALAYA_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.tiktok.com/@ad_muebles.melamina/video/7500655980477271302?q=melamina%20maras&t=1786983738143"
+  },
+  {
+    "Document ID": "VNEGRO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Living-amazonas-negro-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/303-NEGRO-1-1.jpg"
+    ],
+    "nombre": "VESTO NEGRO VELVET SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/303-NEGRO-1-1.jpg",
+    "url_reel": "https://www.tiktok.com/@uzzieldunzz/video/7502309692924792072?q=melamina%20negro%20velvet&t=1786988217285"
+  },
+  {
+    "Document ID": "VNOGALTERRACOTA",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/nogal-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Nogal-Terracota-SKU_04-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Nogal-Terracota-SKU_05-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Nogal-Terracota-SKU_07-min.jpg"
+    ],
+    "nombre": "VESTO NOGAL TERRACOTA 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/nogal-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@grupojpculiacan/video/7167138388892454150?q=melamina%20nogal%20terracota&t=1786740756753"
+  },
+  {
+    "Document ID": "VNOUGAT",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/ARF8AB8B2D6-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/ARBE1C01770-scaled.jpg"
+    ],
+    "nombre": "VESTO NOUGAT 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/01_4962_MUESTRA_70x70_101_NOUGAT_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.tiktok.com/@nekkinteriorismo/video/7562040705200164117?q=melamina%20nougat&t=1786652969754"
+  },
+  {
+    "Document ID": "VROBLEAMERICANO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Roble-Americano-SKU_05-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/roble-americano-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Roble-Americano-SKU_04-min.jpg"
+    ],
+    "nombre": "VESTO ROBLE AMERICANO 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/roble-americano-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@proyectomueble.gc/video/7272955748194241798?q=melamina%20roble%20americano&t=1786738946413"
+  },
+  {
+    "Document ID": "VROBLECAVA",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/coigue-chocolate-y-Cava.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/roble-cava-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Roble-Cava-teka-artico-min.jpg"
+    ],
+    "nombre": "VESTO ROBLE CAVA 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/078-ROBLE-CAVA-3-1.jpg",
+    "url_reel": "https://www.tiktok.com/@vaemag.cl/video/7497026951614352646?q=melamina%20roble%20cava&t=1786721968941"
+  },
+  {
+    "Document ID": "VROBLEPROVENZAL",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cocina-roble.provenzal-nogal.terracota-min-1024x588-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/027-roble-ambiente-1-1024x673-1.jpeg"
+    ],
+    "nombre": "VESTO ROBLE PROVENZAL 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/027-roble-producto-1-770x1024-1.jpeg",
+    "url_reel": "https://www.tiktok.com/@carpetallermx/video/7426884244565232902?q=melamina%20roble%20provenzal&t=1786720960430"
+  },
+  {
+    "Document ID": "VROBLERUSTICO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/roble-rustico-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Alaska-Caramel-Roble-Rustico-min-1.jpg"
+    ],
+    "nombre": "VESTO ROBLE RUSTICO 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/roble-rustico-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@carpinteriando_/video/7271418175873502469?q=roble%20rustico%20arauco&t=1786738581536"
+  },
+  {
+    "Document ID": "VROJO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/rojo-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/COCINA-Teka-%C3%81rtico-Rojo-2.jpg"
+    ],
+    "nombre": "VESTO ROJO SOFT 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/rojo-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@modulismointerior/video/7299135370006891782?q=melamina%20rojo&t=1786989594996"
+  },
+  {
+    "Document ID": "VSAFFRON",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/03_4962_MUESTRA_18mm_092_SAFFRON_1200x1200px_300Dpi_16Nov_21.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/saffron-2-scaled.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/saffron-scaled.jpg"
+    ],
+    "nombre": "VESTO SAFFRON MATE 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/01_4962_MUESTRA_70x70_092_SAFFRON_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.tiktok.com/@estherpinedosalda/video/7467314091191766277?q=melamina%20saffron&t=1786662139811"
+  },
+  {
+    "Document ID": "VSAPELLI",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/sapelli-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/sapelli-01-1.jpg"
+    ],
+    "nombre": "VESTO SAPELLI SOFT 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/sapelli-01-1.jpg",
+    "url_reel": "https://www.facebook.com/Melamina.Modular/videos/fabricaci%C3%B3n-de-closet-en-melamina-18-mm-color-sapelli-en-puertas-y-color-blanco-/2402060496688620/"
+  },
+  {
+    "Document ID": "VSEDAGIORNO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/2018_Closet_Arauco-CL_SedaGiorno.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Seda-Giorno-Notte-31.jpg"
+    ],
+    "nombre": "VESTO SEDA GIORNO 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Seda-Giorno-copia.jpg",
+    "url_reel": "https://www.tiktok.com/@raizestudiodediseno/video/7629780569597005077?q=melamina%20seda%20giorno&t=1786655832086"
+  },
+  {
+    "Document ID": "VSEDANOTTE",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/2018_Arauco-CL_Living-SedaNotte.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Seda-Giorno-Notte-31-1.jpg"
+    ],
+    "nombre": "VESTO SEDA NOTTE 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Seda-notte.jpg",
+    "url_reel": "https://www.tiktok.com/@_ds.decomuebles/video/7640629899807624468?q=melamina%20seda%20notte&t=1786655550062"
+  },
+  {
+    "Document ID": "VTAUPE",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/04_4962_MUESTRA_15mm_181_TAUPE_1200x1200px_300Dpi_MODIF_Dic_21.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/1970/01/taupe-diseno-nordico-contemporaneo-del-mes_505105757_3.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Alaska-taupe-min.jpg"
+    ],
+    "nombre": "VESTO TAUPE SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/04/01_4962_MUESTRA_70x70_181_TAUPE_1200x1200px_300Dpi_MODIF_Dic_21.jpg",
+    "url_reel": "https://www.tiktok.com/@serma.peru/video/7302086119997328646?q=melamina%20toffee&t=1786651446665"
+  },
+  {
+    "Document ID": "VTEKAARTICO",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/teka-artico-aplicaci%C3%B3n-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Teka-%C3%81rtico-SKU_02-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Teka-%C3%81rtico-SKU_05-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/homeoffice-tekaartico-origenandino-min-1.jpg"
+    ],
+    "nombre": "VESTO TEKA ARTICO 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/03/teka-artico-readywall.jpg",
+    "url_reel": "https://www.tiktok.com/@jorgeisael/video/7471373400666098999?q=melamina%20teka%20artico&t=1786740293521"
+  },
+  {
+    "Document ID": "VTITANIO",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/ARDB78E938E-scaled-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/ARDFC2972F8-scaled-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/ARFF48E1572-scaled-1.jpeg"
+    ],
+    "nombre": "VESTO TITANIO 18X1830X2500",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/AR829CB7A14.jpeg",
+    "url_reel": "https://www.tiktok.com/@mueblesalicantospa/video/7508444948094766392?q=melamina%20titanio&t=1786653937687"
+  },
+  {
+    "Document ID": "VTOFFEE",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/AR5A3C9AFCC.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/COCINA_TOFFEE.png"
+    ],
+    "nombre": "VESTO TOFFEE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/AR565FA507A.jpeg",
+    "url_reel": "https://www.tiktok.com/@serma.peru/video/7302086119997328646?q=melamina%20toffee&t=1786651446665"
+  },
+  {
+    "Document ID": "VTOSCANA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/toscana-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Toscana-SKU_02-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/cocina-toscana-espresso-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/homeoffice-toscana-roblerustico-min.jpg"
+    ],
+    "nombre": "VESTO TOSCANA 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/toscana-01-1.jpg",
+    "url_reel": "https://www.tiktok.com/@prodemcoperu/video/7485075743878302982?q=melamina%20toscana&t=1786726036219"
+  },
+  {
+    "Document ID": "VVENEZIA",
+    "categoria": "melamina",
+    "disponibleRH": true,
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/Venezia-Aplicacion-cocina.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/venezia.jpg"
+    ],
+    "nombre": "VESTO VENEZIA MATE 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2019/01/venezia.jpg",
+    "url_reel": "https://www.tiktok.com/@jonasaravia.muebsaravia/video/7541965016090643718?q=melamina%20venezia&t=1786720355783"
+  },
+  {
+    "Document ID": "VVERDE",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Verde-aplicacion-01-1.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/verde-01-1.jpg"
+    ],
+    "nombre": "VESTO VERDE SOFT 18X2150X2440MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/verde-01-1.jpg"
+  },
+  {
+    "Document ID": "VVERDEJADE",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/Jade-aplicacio%CC%81n-scaled-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/Jade-aplicacio%CC%81n-2-scaled-1.jpeg"
+    ],
+    "nombre": "VESTO VERDE JADE SUPERMATE 18X1830X2500MM",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2023/08/Jade.jpeg",
+    "url_reel": "https://www.tiktok.com/@mq.muebles.oficial/video/7573803459934260500?q=melamina%20verde%20jade&t=1786982271329"
+  },
+  {
+    "Document ID": "VVIZCAYA",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/ARD2719C7BE-1024x614-1.jpeg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/02_4962_MUESTRA_30x60_155_VIZCAYA_1200x1200px_300Dpi_MODIF_Dic_21.jpg"
+    ],
+    "nombre": "VESTO VIZCAYA SUPERMATE 18X1830X2500",
+    "subcategoria": "VESTO",
+    "url_imagen": "https://arauco.com/peru/wp-content/uploads/sites/22/2021/12/01_4962_MUESTRA_70x70_155_VIZCAYA_1200x1200px_300Dpi_16Nov_21.jpg",
+    "url_reel": "https://www.tiktok.com/@carpinteriasermika/video/7268372292252552453?q=melamina%20vizcaya&t=1786654270871"
+  },
+  {
+    "Document ID": "VWENGUE",
+    "categoria": "melamina",
+    "imagenes": [
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/031-ROBLE-DAKAR-WENGUE-2.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Roble-Dakar-SKU_03-min.jpg",
+      "https://arauco.com/peru/wp-content/uploads/sites/22/2018/01/Roble-Dakar-SKU_04-min.jpg"
+    ],
+    "nombre": "VESTO WENGUE 18X2150X2440",
+    "subcategoria": "VESTO",
+    "url_reel": "https://www.tiktok.com/@delta.decor/video/7364315105238076678?q=melamina%20vesto%20wengue&t=1786744613046"
+  },
+  {
+    "Document ID": "ZAPATERABLANCA",
+    "categoria": "ferreteria",
+    "imagenes": [
+      "https://www.taviexport.com/app/public_root/imgs/productos/2211161148nuevo-blanco.png",
+      "https://www.taviexport.com/app/public_root/imgs/productos/2211161146nuevo-negro.png",
+      "https://www.taviexport.com/app/public_root/imgs/productos/2211161113nuevo-cerezo.png",
+      "https://www.taviexport.com/app/public_root/imgs/productos/2211161102nuevo-gris.png",
+      "https://firebasestorage.googleapis.com/v0/b/catalogoferretero-17037.firebasestorage.app/o/zapatera%20almendra.png?alt=media&token=93f77d17-eecc-4605-adc2-c9f7fa4b3668"
+    ],
+    "nombre": "BISAGRA ZAPATERA",
+    "url_imagen": "https://www.taviexport.com/app/public_root/imgs/productos/2211161148nuevo-blanco.png",
+    "url_reel": "https://www.tiktok.com/@josevasquez5235/video/7550823935730896134?q=bisagra%20zapatera&t=1786643867269"
+  }
+]
   
